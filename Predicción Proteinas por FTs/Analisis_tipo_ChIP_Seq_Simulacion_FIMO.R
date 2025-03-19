@@ -135,3 +135,38 @@ ggplot(df_scores, aes(x = reorder(Factor, Score, FUN = median), y = Score)) +
         axis.title.y = element_text(family="Helvetica", size = 28, face = "bold"),
         legend.position = "none",  # Ocultar la leyenda ya que los nombres están en el eje X
         panel.grid.major.x = element_blank())
+
+
+# Gráfico de densidad de la distancia a los TSS
+# Compara la localización de los picos respecto a los TSS para los diferentes factores de transcripción y su relación con los controles (TATABP y RAP1). Esto te ayudará a observar si hay una tendencia de los FT a ubicarse en regiones más cercanas a los TSS.
+df_TSS <- do.call(rbind, lapply(factores_transcripcion, function(factor) {
+  data.frame(Factor = factor, distanceToTSS = anno_dfs[[factor]][["distanceToTSS"]])
+}))
+
+ggplot(df_TSS, aes(x = distanceToTSS)) +
+  geom_density(fill = "lightblue", alpha = 0.5) +
+  facet_wrap(~ Factor, ncol = 4, scales = "free") +
+  labs(x = "Distancia al TSS (pb)", y = "Densidad",
+       title = "Distribución de la distancia al TSS por factor de transcripción") +
+  theme(plot.title = element_text(hjust = 0.5, size = 36, face = "bold", family = "Helvetica"),
+        strip.text = element_text(size = 12),
+        axis.text.x = element_text(family = "Helvetica", size = 24, angle = 45, face = "bold", hjust = 1),  # Rotar etiquetas
+        axis.text.y = element_text(family="Helvetica", size = 24),
+        axis.title.x = element_text(family = "Helvetica", size = 28, face = "bold"),
+        axis.title.y = element_text(family="Helvetica", size = 28, face = "bold"),
+        legend.position = "none",  # Ocultar la leyenda ya que los nombres están en el eje X
+        panel.grid.major.x = element_blank())
+
+
+ggplot(df_TSS, aes(x = Factor, y = distanceToTSS, fill = Factor)) +
+  geom_violin() +
+  labs(x = "Factor de Transcripción", y = "Distancia al TSS (pb)", title = "Distribución de la distancia al TSS por factor de transcripción") +
+  theme(plot.title = element_text(hjust = 0.5, size = 36, face = "bold", family = "Helvetica"),
+        strip.text = element_text(size = 12),
+        axis.text.x = element_text(family = "Helvetica", size = 24, angle = 45, face = "bold", hjust = 1),  # Rotar etiquetas
+        axis.text.y = element_text(family="Helvetica", size = 24),
+        axis.title.x = element_text(family = "Helvetica", size = 28, face = "bold"),
+        axis.title.y = element_text(family="Helvetica", size = 28, face = "bold"),
+        legend.position = "none",  # Ocultar la leyenda ya que los nombres están en el eje X
+        panel.grid.major.x = element_blank())
+
