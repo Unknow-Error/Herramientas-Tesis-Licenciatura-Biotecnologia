@@ -1,0 +1,824 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-367B2DC680604018-686A7DBB529FFF8
+#datatype	hitsStandard Results
+#status	0
+#Start time	2025-03-07T12:08:48	Run time	0:00:00:19
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	non-specific	441878	26	562	9.80162e-55	193.506	COG2303	BetA	 - 	cl34456
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	superfamily	441878	26	562	9.80162e-55	193.506	cl34456	BetA superfamily	 - 	 - 
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	non-specific	366272	113	296	9.82873e-21	90.8044	pfam00732	GMC_oxred_N	 - 	cl21454
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	superfamily	473865	113	296	9.82873e-21	90.8044	cl21454	NADB_Rossmann superfamily	 - 	 - 
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	non-specific	235000	23	561	9.55909e-20	92.5871	PRK02106	PRK02106	 - 	cl21454
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	non-specific	130444	27	63	0.00520458	39.4278	TIGR01377	soxA_mon	C	cl31099
+Q#3 - >XP_008593381.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	superfamily	130444	27	63	0.00520458	39.4278	cl31099	soxA_mon superfamily	C	 - 
+Q#4 - >XP_008593388.1 metalloprotease MEP1 [Beauveria bassiana ARSEF 2860]	non-specific	239802	54	274	8.41771e-45	150.953	cd04275	ZnMc_pappalysin_like	 - 	cl00064
+Q#4 - >XP_008593388.1 metalloprotease MEP1 [Beauveria bassiana ARSEF 2860]	superfamily	469599	54	274	8.41771e-45	150.953	cl00064	ZnMc superfamily	 - 	 - 
+Q#4 - >XP_008593388.1 metalloprotease MEP1 [Beauveria bassiana ARSEF 2860]	non-specific	368506	186	269	0.00164053	37.9786	pfam05572	Peptidase_M43	N	cl00064
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	non-specific	441213	67	132	1.13952e-08	51.6898	COG1605	PheA	C	cl43464
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	superfamily	441213	67	132	1.13952e-08	51.6898	cl43464	PheA superfamily	C	 - 
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	specific	214841	76	137	7.20928e-07	44.8769	smart00830	CM_2	C	cl00693
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	superfamily	469881	76	137	7.20928e-07	44.8769	cl00693	CM_2 superfamily	C	 - 
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	specific	460345	76	120	7.72831e-07	44.7915	pfam01817	CM_2	C	cl47697
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	superfamily	460345	76	120	7.72831e-07	44.7915	cl47697	CM_2 superfamily	C	 - 
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	non-specific	130851	72	122	0.00062839	37.0215	TIGR01791	CM_archaeal	C	cl00693
+Q#5 - >XP_008593399.1 uncharacterized protein BBA_00080 [Beauveria bassiana ARSEF 2860]	non-specific	180509	65	122	0.00196211	35.7822	PRK06285	PRK06285	C	cl00693
+Q#7 - >XP_008593517.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	specific	187688	41	187	1.62612e-27	104.676	cd09630	CDH_like_cytochrome	 - 	cl14783
+Q#7 - >XP_008593517.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	superfamily	472705	41	187	1.62612e-27	104.676	cl14783	DOMON_like superfamily	 - 	 - 
+Q#7 - >XP_008593517.1 cellobiose dehydrogenase [Beauveria bassiana ARSEF 2860]	non-specific	435066	50	187	1.44742e-15	72.6486	pfam16010	CDH-cyt	 - 	cl14783
+Q#8 - >XP_008593573.1 uncharacterized protein BBA_00254 [Beauveria bassiana ARSEF 2860]	non-specific	437103	20	130	5.64509e-16	68.7558	pfam19271	Nis1	 - 	cl44706
+Q#8 - >XP_008593573.1 uncharacterized protein BBA_00254 [Beauveria bassiana ARSEF 2860]	superfamily	437103	20	130	5.64509e-16	68.7558	cl44706	Nis1 superfamily	 - 	 - 
+Q#9 - >XP_008593600.1 cupin-like protein [Beauveria bassiana ARSEF 2860]	specific	380368	48	220	8.58446e-39	133.105	cd02241	cupin_OxOx	 - 	cl40423
+Q#9 - >XP_008593600.1 cupin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	477354	48	220	8.58446e-39	133.105	cl40423	cupin_RmlC-like superfamily	 - 	 - 
+Q#9 - >XP_008593600.1 cupin-like protein [Beauveria bassiana ARSEF 2860]	non-specific	214845	62	214	2.35443e-11	59.9867	smart00835	Cupin_1	 - 	cl40423
+Q#9 - >XP_008593600.1 cupin-like protein [Beauveria bassiana ARSEF 2860]	non-specific	395138	62	201	9.08905e-10	55.4182	pfam00190	Cupin_1	 - 	cl40423
+Q#9 - >XP_008593600.1 cupin-like protein [Beauveria bassiana ARSEF 2860]	specific	440426	71	179	5.96393e-05	41.2802	COG0662	ManC	 - 	cl43229
+Q#9 - >XP_008593600.1 cupin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	440426	71	179	5.96393e-05	41.2802	cl43229	ManC superfamily	 - 	 - 
+Q#10 - >XP_008593834.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	specific	185690	21	322	2.64919e-121	350.375	cd02181	GH16_fungal_Lam16A_glucanase	 - 	cl22861
+Q#10 - >XP_008593834.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	superfamily	473984	21	322	2.64919e-121	350.375	cl22861	LamG superfamily	 - 	 - 
+Q#10 - >XP_008593834.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	non-specific	441874	88	247	1.20213e-09	58.0763	COG2273	BglS	N	cl34454
+Q#10 - >XP_008593834.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	superfamily	441874	88	247	1.20213e-09	58.0763	cl34454	BglS superfamily	N	 - 
+Q#10 - >XP_008593834.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	non-specific	395585	97	146	0.00111982	39.113	pfam00722	Glyco_hydro_16	C	cl22861
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	specific	441286	46	385	1.72451e-58	198.755	COG1680	AmpC	 - 	cl43486
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	superfamily	441286	46	385	1.72451e-58	198.755	cl43486	AmpC superfamily	 - 	 - 
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	specific	395092	46	384	6.44043e-44	158.82	pfam00144	Beta-lactamase	 - 	cl21491
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	superfamily	473882	46	384	6.44043e-44	158.82	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	non-specific	179620	47	355	2.68844e-13	72.1302	PRK03642	PRK03642	 - 	cl21491
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	non-specific	432217	433	539	0.000118284	41.222	pfam11954	DUF3471	 - 	cl13401
+Q#11 - >XP_008593864.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	superfamily	432217	433	539	0.000118284	41.222	cl13401	DUF3471 superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	specific	464929	761	1214	0	564.903	pfam15902	Sortilin-Vps10	 - 	cl25791
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	464929	761	1214	0	564.903	cl25791	Sortilin-Vps10 superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	specific	464929	61	517	6.49942e-174	528.309	pfam15902	Sortilin-Vps10	 - 	cl25791
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	464929	61	517	6.49942e-174	528.309	cl25791	Sortilin-Vps10 superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	non-specific	214740	758	1384	5.86667e-122	395.236	smart00602	VPS10	 - 	cl33391
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	214740	758	1384	5.86667e-122	395.236	cl33391	VPS10 superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	non-specific	214740	66	664	8.95445e-95	319.737	smart00602	VPS10	 - 	cl33391
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	214740	66	664	8.95445e-95	319.737	cl33391	VPS10 superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	specific	464928	519	679	1.46341e-61	207.557	pfam15901	Sortilin_C	 - 	cl38475
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	464928	519	679	1.46341e-61	207.557	cl38475	Sortilin_C superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	specific	464928	1216	1384	2.43283e-58	198.312	pfam15901	Sortilin_C	 - 	cl38475
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	464928	1216	1384	2.43283e-58	198.312	cl38475	Sortilin_C superfamily	 - 	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	non-specific	443546	390	479	0.00108103	41.1397	COG4447	COG4447	N	cl44073
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	443546	390	479	0.00108103	41.1397	cl44073	COG4447 superfamily	N	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	specific	271234	392	510	0.0017372	42.443	cd15482	Sialidase_non-viral	NC	cl21531
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	473900	392	510	0.0017372	42.443	cl21531	Sialidase superfamily	NC	 - 
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	specific	271234	1148	1228	0.00418626	41.2874	cd15482	Sialidase_non-viral	NC	cl21531
+Q#13 - >XP_008593911.1 vacuolar protein sorting/targeting protein PEP1 [Beauveria bassiana ARSEF 2860]	superfamily	473900	1148	1228	0.00418626	41.2874	cl21531	Sialidase superfamily	NC	 - 
+Q#14 - >XP_008593954.1 Secretory lipase family protein [Beauveria bassiana ARSEF 2860]	non-specific	367570	131	411	8.76969e-80	248.886	pfam03583	LIP	 - 	cl21494
+Q#14 - >XP_008593954.1 Secretory lipase family protein [Beauveria bassiana ARSEF 2860]	superfamily	473884	131	411	8.76969e-80	248.886	cl21494	Abhydrolase superfamily	 - 	 - 
+Q#14 - >XP_008593954.1 Secretory lipase family protein [Beauveria bassiana ARSEF 2860]	non-specific	441115	151	255	0.00601837	38.074	COG1506	DAP2	C	cl34287
+Q#14 - >XP_008593954.1 Secretory lipase family protein [Beauveria bassiana ARSEF 2860]	superfamily	441115	151	255	0.00601837	38.074	cl34287	DAP2 superfamily	C	 - 
+Q#15 - >XP_008594021.1 lipase, putative [Beauveria bassiana ARSEF 2860]	non-specific	441873	24	547	4.53598e-109	334.934	COG2272	PnbA	 - 	cl43668
+Q#15 - >XP_008594021.1 lipase, putative [Beauveria bassiana ARSEF 2860]	superfamily	441873	24	547	4.53598e-109	334.934	cl43668	PnbA superfamily	 - 	 - 
+Q#15 - >XP_008594021.1 lipase, putative [Beauveria bassiana ARSEF 2860]	non-specific	238191	27	496	1.82792e-101	315.041	cd00312	Esterase_lipase	 - 	cl21494
+Q#15 - >XP_008594021.1 lipase, putative [Beauveria bassiana ARSEF 2860]	superfamily	473884	27	496	1.82792e-101	315.041	cl21494	Abhydrolase superfamily	 - 	 - 
+Q#15 - >XP_008594021.1 lipase, putative [Beauveria bassiana ARSEF 2860]	non-specific	395084	24	514	3.97034e-98	306.927	pfam00135	COesterase	 - 	cl21494
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	173829	22	287	1.10851e-129	391.831	cd08201	plant_peroxidase_like_1	 - 	cl00196
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	444739	22	287	1.10851e-129	391.831	cl00196	plant_peroxidase_like superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	specific	460348	632	709	1.72776e-22	92.1369	pfam01822	WSC	 - 	cl47698
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	460348	632	709	1.72776e-22	92.1369	cl47698	WSC superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	specific	460348	741	818	4.18804e-22	90.9813	pfam01822	WSC	 - 	cl47698
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	460348	741	818	4.18804e-22	90.9813	cl47698	WSC superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	specific	460348	847	924	4.95979e-21	87.8997	pfam01822	WSC	 - 	cl47698
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	460348	847	924	4.95979e-21	87.8997	cl47698	WSC superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	specific	425483	60	197	7.63463e-18	82.6123	pfam00141	peroxidase	 - 	cl00196
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	214616	738	827	8.99085e-13	65.1841	smart00321	WSC	 - 	cl47036
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	214616	738	827	8.99085e-13	65.1841	cl47036	WSC superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	214616	843	931	1.9035e-12	64.0285	smart00321	WSC	 - 	cl47036
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	214616	843	931	1.9035e-12	64.0285	cl47036	WSC superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	178467	67	234	1.58867e-10	62.7704	PLN02879	PLN02879	C	cl00196
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	214616	628	713	2.38119e-08	52.4725	smart00321	WSC	 - 	cl47036
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	214616	628	713	2.38119e-08	52.4725	cl47036	WSC superfamily	 - 	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	236733	552	630	0.000144708	45.0531	PRK10672	PRK10672	N	cl35937
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	superfamily	236733	552	630	0.000144708	45.0531	cl35937	PRK10672 superfamily	N	 - 
+Q#16 - >XP_008594111.1 beta-1, 3 exoglucanase precursor [Beauveria bassiana ARSEF 2860]	non-specific	272957	139	214	0.00075943	43.3781	TIGR00198	cat_per_HPI	NC	cl00196
+Q#17 - >XP_008594135.1 uncharacterized protein BBA_00816 [Beauveria bassiana ARSEF 2860]	specific	430283	48	124	1.29434e-11	58.8358	pfam08881	CVNH	 - 	cl07470
+Q#17 - >XP_008594135.1 uncharacterized protein BBA_00816 [Beauveria bassiana ARSEF 2860]	superfamily	430283	48	124	1.29434e-11	58.8358	cl07470	CVNH superfamily	 - 	 - 
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	440500	39	527	4.38447e-127	381.895	COG0737	UshA	 - 	cl34025
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	440500	39	527	4.38447e-127	381.895	cl34025	UshA superfamily	 - 	 - 
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	277354	41	313	2.50266e-120	357.656	cd07409	MPP_CD73_N	 - 	cl13995
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	472684	41	313	2.50266e-120	357.656	cl13995	MPP_superfamily superfamily	 - 	 - 
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	236505	35	539	3.85373e-72	251.662	PRK09419	PRK09419	N	cl35825
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	236505	35	539	3.85373e-72	251.662	cl35825	PRK09419 superfamily	N	 - 
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	427027	341	503	2.90989e-32	121.624	pfam02872	5_nucleotid_C	 - 	cl37675
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	427027	341	503	2.90989e-32	121.624	cl37675	5_nucleotid_C superfamily	 - 	 - 
+Q#18 - >XP_008594208.1 5'-nucleotidase domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214858	93	255	3.54853e-07	51.4409	smart00854	PGA_cap	 - 	cl13995
+Q#20 - >XP_008594613.1 zinc/iron transporter protein [Beauveria bassiana ARSEF 2860]	non-specific	273287	153	482	6.57564e-35	132.901	TIGR00820	zip	 - 	cl00437
+Q#20 - >XP_008594613.1 zinc/iron transporter protein [Beauveria bassiana ARSEF 2860]	superfamily	444905	153	482	6.57564e-35	132.901	cl00437	Zip superfamily	 - 	 - 
+Q#20 - >XP_008594613.1 zinc/iron transporter protein [Beauveria bassiana ARSEF 2860]	specific	396884	162	470	3.25817e-29	117.092	pfam02535	Zip	 - 	cl00437
+Q#20 - >XP_008594613.1 zinc/iron transporter protein [Beauveria bassiana ARSEF 2860]	non-specific	177818	137	482	1.78549e-25	106.946	PLN02159	PLN02159	 - 	cl00437
+Q#20 - >XP_008594613.1 zinc/iron transporter protein [Beauveria bassiana ARSEF 2860]	non-specific	440197	168	478	8.38698e-05	44.0178	COG0428	ZupT	 - 	cl43140
+Q#20 - >XP_008594613.1 zinc/iron transporter protein [Beauveria bassiana ARSEF 2860]	superfamily	440197	168	478	8.38698e-05	44.0178	cl43140	ZupT superfamily	 - 	 - 
+Q#21 - >XP_008594657.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	specific	397638	30	389	1.14478e-144	425.187	pfam03663	Glyco_hydro_76	 - 	cl04955
+Q#21 - >XP_008594657.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	471159	30	389	1.14478e-144	425.187	cl04955	LanC_like superfamily	 - 	 - 
+Q#21 - >XP_008594657.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	non-specific	443861	64	408	3.94651e-32	127.812	COG4833	COG4833	 - 	cl42607
+Q#21 - >XP_008594657.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	443861	64	408	3.94651e-32	127.812	cl42607	COG4833 superfamily	 - 	 - 
+Q#21 - >XP_008594657.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	non-specific	282904	399	659	9.73699e-05	45.6776	pfam05109	Herpes_BLLF1	N	cl37540
+Q#21 - >XP_008594657.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	282904	399	659	9.73699e-05	45.6776	cl37540	Herpes_BLLF1 superfamily	N	 - 
+Q#23 - >XP_008594813.1 lipase 1 precursor [Beauveria bassiana ARSEF 2860]	non-specific	367570	139	398	3.88734e-46	162.216	pfam03583	LIP	 - 	cl21494
+Q#23 - >XP_008594813.1 lipase 1 precursor [Beauveria bassiana ARSEF 2860]	superfamily	473884	139	398	3.88734e-46	162.216	cl21494	Abhydrolase superfamily	 - 	 - 
+Q#24 - >XP_008594848.1 prenylcysteine oxidase [Beauveria bassiana ARSEF 2860]	non-specific	462104	148	533	1.75313e-90	283.028	pfam07156	Prenylcys_lyase	 - 	cl20048
+Q#24 - >XP_008594848.1 prenylcysteine oxidase [Beauveria bassiana ARSEF 2860]	superfamily	462104	148	533	1.75313e-90	283.028	cl20048	Prenylcys_lyase superfamily	 - 	 - 
+Q#24 - >XP_008594848.1 prenylcysteine oxidase [Beauveria bassiana ARSEF 2860]	non-specific	440844	50	328	7.08272e-05	45.2974	COG1231	YobN	C	cl34196
+Q#24 - >XP_008594848.1 prenylcysteine oxidase [Beauveria bassiana ARSEF 2860]	superfamily	440844	50	328	7.08272e-05	45.2974	cl34196	YobN superfamily	C	 - 
+Q#25 - >XP_008594872.1 uncharacterized protein BBA_01553 [Beauveria bassiana ARSEF 2860]	non-specific	223021	112	482	4.08511e-06	49.9369	PHA03247	PHA03247	N	cl33720
+Q#25 - >XP_008594872.1 uncharacterized protein BBA_01553 [Beauveria bassiana ARSEF 2860]	superfamily	223021	112	482	4.08511e-06	49.9369	cl33720	PHA03247 superfamily	N	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	specific	440430	1365	1523	1.5672e-28	117.362	COG0666	ANKYR	N	cl34000
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	440430	1365	1523	1.5672e-28	117.362	cl34000	ANKYR superfamily	N	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	specific	463710	1374	1455	4.75888e-15	72.0709	pfam12796	Ank_2	 - 	cl48147
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	463710	1374	1455	4.75888e-15	72.0709	cl48147	Ank_2 superfamily	 - 	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	specific	463710	1588	1678	3.18057e-10	58.2037	pfam12796	Ank_2	 - 	cl48147
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	463710	1588	1678	3.18057e-10	58.2037	cl48147	Ank_2 superfamily	 - 	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	non-specific	222980	1389	1668	3.54536e-09	61.1939	PHA03095	PHA03095	C	cl33707
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	222980	1389	1668	3.54536e-09	61.1939	cl33707	PHA03095 superfamily	C	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	non-specific	165205	1591	1662	6.30164e-07	53.814	PHA02874	PHA02874	NC	cl31515
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	165205	1591	1662	6.30164e-07	53.814	cl31515	PHA02874 superfamily	NC	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	specific	463710	1326	1397	1.09856e-06	48.1885	pfam12796	Ank_2	N	cl48147
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	463710	1326	1397	1.09856e-06	48.1885	cl48147	Ank_2 superfamily	N	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	specific	197603	1402	1430	3.57209e-05	42.1898	smart00248	ANK	 - 	cl46994
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	197603	1402	1430	3.57209e-05	42.1898	cl46994	ANK superfamily	 - 	 - 
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	non-specific	411976	1370	1523	0.00592213	41.5369	cd22192	TRPV5-6	C	cl40437
+Q#27 - >XP_008596112.1 ankyrin repeat domain-containing protein 28 [Beauveria bassiana ARSEF 2860]	superfamily	454755	1370	1523	0.00592213	41.5369	cl40437	TRPV superfamily	C	 - 
+Q#28 - >XP_008596184.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	non-specific	459815	60	532	8.59613e-65	219.415	pfam00450	Peptidase_S10	 - 	cl47550
+Q#28 - >XP_008596184.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	superfamily	459815	60	532	8.59613e-65	219.415	cl47550	Peptidase_S10 superfamily	 - 	 - 
+Q#28 - >XP_008596184.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	non-specific	240429	60	536	5.29746e-35	138.415	PTZ00472	PTZ00472	 - 	cl08270
+Q#28 - >XP_008596184.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	superfamily	471799	60	536	5.29746e-35	138.415	cl08270	PLN02209 superfamily	 - 	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	335	366	1.85085e-09	52.8729	cd00118	LysM	C	cl46249
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	335	366	1.85085e-09	52.8729	cl46249	LysM superfamily	C	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	125	169	2.58259e-09	52.4877	cd00118	LysM	 - 	cl46249
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	125	169	2.58259e-09	52.4877	cl46249	LysM superfamily	 - 	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197609	336	378	3.6991e-07	46.2848	smart00257	LysM	 - 	cl21525
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	336	378	3.6991e-07	46.2848	cl21525	LysM superfamily	 - 	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	440998	334	364	5.27692e-06	46.2403	COG1388	LysM	N	cl43409
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	440998	334	364	5.27692e-06	46.2403	cl43409	LysM superfamily	N	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	180536	39	363	7.89655e-06	47.7671	PRK06347	PRK06347	N	cl32140
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	180536	39	363	7.89655e-06	47.7671	cl32140	PRK06347 superfamily	N	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396179	337	363	1.13872e-05	41.9979	pfam01476	LysM	C	cl21525
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197609	126	159	2.6174e-05	40.892	smart00257	LysM	C	cl21525
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	126	159	2.6174e-05	40.892	cl21525	LysM superfamily	C	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	440998	99	154	9.07139e-05	42.3883	COG1388	LysM	N	cl43409
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	440998	99	154	9.07139e-05	42.3883	cl43409	LysM superfamily	N	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	255	299	0.000235521	38.2353	cd00118	LysM	 - 	cl46249
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	255	299	0.000235521	38.2353	cl46249	LysM superfamily	 - 	 - 
+Q#31 - >XP_008596264.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396179	127	154	0.000575229	37.3755	pfam01476	LysM	C	cl21525
+Q#32 - >XP_008596270.1 uncharacterized protein BBA_02951 [Beauveria bassiana ARSEF 2860]	specific	213052	224	251	0.000870617	36.3542	cd12087	TM_EGFR-like	 - 	cl17045
+Q#32 - >XP_008596270.1 uncharacterized protein BBA_02951 [Beauveria bassiana ARSEF 2860]	superfamily	277498	224	251	0.000870617	36.3542	cl17045	TM_EGFR-like superfamily	 - 	 - 
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	469349	25	199	2.84515e-82	244.151	NF041461	C_hydro_YcaC	 - 	cl49446
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	469349	25	199	2.84515e-82	244.151	cl49446	C_hydro_YcaC superfamily	 - 	 - 
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	238494	35	195	1.24408e-38	131.563	cd01012	YcaC_related	 - 	cl00220
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	444760	35	195	1.24408e-38	131.563	cl00220	cysteine_hydrolases superfamily	 - 	 - 
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	specific	440946	35	184	9.50483e-19	79.9484	COG1335	PncA	 - 	cl43390
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	440946	35	184	9.50483e-19	79.9484	cl43390	PncA superfamily	 - 	 - 
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	376404	34	186	1.62141e-13	66.2727	pfam00857	Isochorismatase	 - 	cl00220
+Q#34 - >XP_008596319.1 isochorismatase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	240363	127	191	0.000184694	41.2056	PTZ00331	PTZ00331	N	cl00220
+Q#35 - >XP_008596390.1 hydrophobin-like protein [Beauveria bassiana ARSEF 2860]	specific	429109	30	94	3.18884e-30	101.944	pfam06766	Hydrophobin_2	 - 	cl06022
+Q#35 - >XP_008596390.1 hydrophobin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	429109	30	94	3.18884e-30	101.944	cl06022	Hydrophobin_2 superfamily	 - 	 - 
+Q#35 - >XP_008596390.1 hydrophobin-like protein [Beauveria bassiana ARSEF 2860]	specific	438004	29	91	1.27588e-27	95.4652	cd23508	hydrophobin_II	 - 	cl45889
+Q#35 - >XP_008596390.1 hydrophobin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	459234	29	91	1.27588e-27	95.4652	cl45889	hydrophobin superfamily	 - 	 - 
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	specific	99783	455	734	1.54521e-35	133.584	cd06186	NOX_Duox_like_FAD_NADP	 - 	cl06868
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	superfamily	447143	455	734	1.54521e-35	133.584	cl06868	FNR_like superfamily	 - 	 - 
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	specific	426438	292	411	1.96136e-30	115.829	pfam01794	Ferric_reduct	 - 	cl23723
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	superfamily	474033	292	411	1.96136e-30	115.829	cl23723	Cytochrome_b_N superfamily	 - 	 - 
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	non-specific	443273	327	731	2.49841e-30	124.62	COG4097	COG4097	 - 	cl34712
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	superfamily	443273	327	731	2.49841e-30	124.62	cl34712	COG4097 superfamily	 - 	 - 
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	non-specific	429792	587	716	9.84286e-11	60.4314	pfam08030	NAD_binding_6	 - 	cl23719
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	superfamily	451503	587	716	9.84286e-11	60.4314	cl23719	NAD_binding_1 superfamily	 - 	 - 
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	non-specific	215453	285	616	1.3495e-05	48.6901	PLN02844	PLN02844	NC	cl33578
+Q#36 - >XP_008596391.1 ferric reductase like transmembrane component [Beauveria bassiana ARSEF 2860]	superfamily	215453	285	616	1.3495e-05	48.6901	cl33578	PLN02844 superfamily	NC	 - 
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	238113	27	260	2.39745e-54	177.854	cd00190	Tryp_SPc	 - 	cl21584
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	superfamily	473915	27	260	2.39745e-54	177.854	cl21584	Tryp_SPc superfamily	 - 	 - 
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	214473	26	257	4.39312e-53	174.403	smart00020	Tryp_SPc	 - 	cl21584
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	444365	2	265	5.27991e-52	172.912	COG5640	COG5640	 - 	cl44276
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	superfamily	444365	2	265	5.27991e-52	172.912	cl44276	COG5640 superfamily	 - 	 - 
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	459667	27	257	2.36187e-44	151.441	pfam00089	Trypsin	 - 	cl47494
+Q#39 - >XP_008596522.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	superfamily	459667	27	257	2.36187e-44	151.441	cl47494	Trypsin superfamily	 - 	 - 
+Q#40 - >XP_008596530.1 serine peptidase, putative [Beauveria bassiana ARSEF 2860]	non-specific	310284	60	509	2.11989e-43	159.851	pfam05577	Peptidase_S28	 - 	cl21494
+Q#40 - >XP_008596530.1 serine peptidase, putative [Beauveria bassiana ARSEF 2860]	superfamily	473884	60	509	2.11989e-43	159.851	cl21494	Abhydrolase superfamily	 - 	 - 
+Q#41 - >XP_008596532.1 putative aspartic protease [Beauveria bassiana ARSEF 2860]	specific	133138	77	385	6.13242e-49	166.832	cd05471	pepsin_like	 - 	cl11403
+Q#41 - >XP_008596532.1 putative aspartic protease [Beauveria bassiana ARSEF 2860]	superfamily	472175	77	385	6.13242e-49	166.832	cl11403	pepsin_retropepsin_like superfamily	 - 	 - 
+Q#41 - >XP_008596532.1 putative aspartic protease [Beauveria bassiana ARSEF 2860]	non-specific	394983	76	387	3.64058e-47	163.214	pfam00026	Asp	 - 	cl11403
+Q#41 - >XP_008596532.1 putative aspartic protease [Beauveria bassiana ARSEF 2860]	non-specific	140176	79	387	1.54236e-13	71.8205	PTZ00147	PTZ00147	N	cl31412
+Q#41 - >XP_008596532.1 putative aspartic protease [Beauveria bassiana ARSEF 2860]	superfamily	140176	79	387	1.54236e-13	71.8205	cl31412	PTZ00147 superfamily	N	 - 
+Q#42 - >XP_008596564.1 cell wall protein [Beauveria bassiana ARSEF 2860]	specific	463524	27	142	2.12196e-14	66.5402	pfam12296	HsbA	 - 	cl13699
+Q#42 - >XP_008596564.1 cell wall protein [Beauveria bassiana ARSEF 2860]	superfamily	463524	27	142	2.12196e-14	66.5402	cl13699	HsbA superfamily	 - 	 - 
+Q#43 - >XP_008596565.1 cell wall protein [Beauveria bassiana ARSEF 2860]	specific	463524	26	143	1.33988e-17	76.5554	pfam12296	HsbA	 - 	cl13699
+Q#43 - >XP_008596565.1 cell wall protein [Beauveria bassiana ARSEF 2860]	superfamily	463524	26	143	1.33988e-17	76.5554	cl13699	HsbA superfamily	 - 	 - 
+Q#45 - >XP_008596595.1 legume-like lectin family protein [Beauveria bassiana ARSEF 2860]	specific	173891	21	236	6.99008e-89	268.773	cd06903	lectin_EMP46_EMP47	 - 	cl14058
+Q#45 - >XP_008596595.1 legume-like lectin family protein [Beauveria bassiana ARSEF 2860]	superfamily	472686	21	236	6.99008e-89	268.773	cl14058	lectin_L-type superfamily	 - 	 - 
+Q#45 - >XP_008596595.1 legume-like lectin family protein [Beauveria bassiana ARSEF 2860]	non-specific	397453	40	235	1.46461e-26	106.366	pfam03388	Lectin_leg-like	 - 	cl14058
+Q#45 - >XP_008596595.1 legume-like lectin family protein [Beauveria bassiana ARSEF 2860]	non-specific	443941	279	386	0.00120983	41.4393	COG4913	COG4913	NC	cl25907
+Q#45 - >XP_008596595.1 legume-like lectin family protein [Beauveria bassiana ARSEF 2860]	superfamily	443941	279	386	0.00120983	41.4393	cl25907	COG4913 superfamily	NC	 - 
+Q#49 - >XP_008596688.1 transient receptor potential ion channel [Beauveria bassiana ARSEF 2860]	specific	428720	167	606	0	598.355	pfam06011	TRP	 - 	cl18480
+Q#49 - >XP_008596688.1 transient receptor potential ion channel [Beauveria bassiana ARSEF 2860]	superfamily	428720	167	606	0	598.355	cl18480	TRP superfamily	 - 	 - 
+Q#49 - >XP_008596688.1 transient receptor potential ion channel [Beauveria bassiana ARSEF 2860]	specific	434037	28	162	3.16124e-46	160.745	pfam14558	TRP_N	 - 	cl00274
+Q#49 - >XP_008596688.1 transient receptor potential ion channel [Beauveria bassiana ARSEF 2860]	superfamily	469700	28	162	3.16124e-46	160.745	cl00274	ML superfamily	 - 	 - 
+Q#52 - >XP_008596811.1 uncharacterized protein BBA_03492 [Beauveria bassiana ARSEF 2860]	specific	463524	20	141	1.45888e-21	85.0298	pfam12296	HsbA	 - 	cl13699
+Q#52 - >XP_008596811.1 uncharacterized protein BBA_03492 [Beauveria bassiana ARSEF 2860]	superfamily	463524	20	141	1.45888e-21	85.0298	cl13699	HsbA superfamily	 - 	 - 
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	99751	45	86	8.32461e-10	54.0885	cd06257	DnaJ	C	cl02542
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	413365	45	86	8.32461e-10	54.0885	cl02542	DnaJ superfamily	C	 - 
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	395170	45	76	1.00627e-09	54.0159	pfam00226	DnaJ	C	cl02542
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197617	45	76	1.01364e-08	51.0813	smart00271	DnaJ	C	cl02542
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	274090	46	138	3.96659e-08	54.5288	TIGR02349	DnaJ_bact	C	cl37091
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	274090	46	138	3.96659e-08	54.5288	cl37091	DnaJ_bact superfamily	C	 - 
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	441816	43	121	5.7102e-08	50.1015	COG2214	CbpA	C	cl34431
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	441816	43	121	5.7102e-08	50.1015	cl34431	CbpA superfamily	C	 - 
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	237663	44	139	6.1684e-06	48.0624	PRK14293	PRK14293	C	cl36361
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	237663	44	139	6.1684e-06	48.0624	cl36361	PRK14293 superfamily	C	 - 
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	237653	46	114	1.49152e-05	46.6195	PRK14276	PRK14276	C	cl36351
+Q#53 - >XP_008597652.1 DnaJ domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	237653	46	114	1.49152e-05	46.6195	cl36351	PRK14276 superfamily	C	 - 
+Q#55 - >XP_008597730.1 Protein GPR89A [Beauveria bassiana ARSEF 2860]	specific	463577	211	389	5.30032e-71	221.327	pfam12430	ABA_GPCR	 - 	cl13817
+Q#55 - >XP_008597730.1 Protein GPR89A [Beauveria bassiana ARSEF 2860]	superfamily	463577	211	389	5.30032e-71	221.327	cl13817	ABA_GPCR superfamily	 - 	 - 
+Q#55 - >XP_008597730.1 Protein GPR89A [Beauveria bassiana ARSEF 2860]	specific	463623	57	126	2.0902e-23	92.5888	pfam12537	GPHR_N	 - 	cl13913
+Q#55 - >XP_008597730.1 Protein GPR89A [Beauveria bassiana ARSEF 2860]	superfamily	463623	57	126	2.0902e-23	92.5888	cl13913	GPHR_N superfamily	 - 	 - 
+Q#57 - >XP_008597871.1 LysM domain protein [Beauveria bassiana ARSEF 2860]	specific	212030	48	83	0.000151712	38.2353	cd00118	LysM	C	cl46249
+Q#57 - >XP_008597871.1 LysM domain protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	48	83	0.000151712	38.2353	cl46249	LysM superfamily	C	 - 
+Q#57 - >XP_008597871.1 LysM domain protein [Beauveria bassiana ARSEF 2860]	specific	197609	49	94	0.000378437	37.4252	smart00257	LysM	 - 	cl21525
+Q#57 - >XP_008597871.1 LysM domain protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	49	94	0.000378437	37.4252	cl21525	LysM superfamily	 - 	 - 
+Q#57 - >XP_008597871.1 LysM domain protein [Beauveria bassiana ARSEF 2860]	specific	212030	215	242	0.0077814	33.6129	cd00118	LysM	C	cl46249
+Q#57 - >XP_008597871.1 LysM domain protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	215	242	0.0077814	33.6129	cl46249	LysM superfamily	C	 - 
+Q#58 - >XP_008597878.1 uncharacterized protein BBA_04559 [Beauveria bassiana ARSEF 2860]	specific	466029	56	195	3.27511e-25	95.0552	pfam19287	DUF5910	 - 	cl44721
+Q#58 - >XP_008597878.1 uncharacterized protein BBA_04559 [Beauveria bassiana ARSEF 2860]	superfamily	466029	56	195	3.27511e-25	95.0552	cl44721	DUF5910 superfamily	 - 	 - 
+Q#59 - >XP_008597937.1 glucose-methanol-choline (gmc) oxidoreductase [Beauveria bassiana ARSEF 2860]	specific	441878	46	663	1.86852e-122	374.165	COG2303	BetA	 - 	cl34456
+Q#59 - >XP_008597937.1 glucose-methanol-choline (gmc) oxidoreductase [Beauveria bassiana ARSEF 2860]	superfamily	441878	46	663	1.86852e-122	374.165	cl34456	BetA superfamily	 - 	 - 
+Q#59 - >XP_008597937.1 glucose-methanol-choline (gmc) oxidoreductase [Beauveria bassiana ARSEF 2860]	non-specific	235000	46	661	1.55787e-76	255.141	PRK02106	PRK02106	 - 	cl21454
+Q#59 - >XP_008597937.1 glucose-methanol-choline (gmc) oxidoreductase [Beauveria bassiana ARSEF 2860]	superfamily	473865	46	661	1.55787e-76	255.141	cl21454	NADB_Rossmann superfamily	 - 	 - 
+Q#59 - >XP_008597937.1 glucose-methanol-choline (gmc) oxidoreductase [Beauveria bassiana ARSEF 2860]	specific	398739	521	656	8.57048e-33	123.276	pfam05199	GMC_oxred_C	 - 	cl37726
+Q#59 - >XP_008597937.1 glucose-methanol-choline (gmc) oxidoreductase [Beauveria bassiana ARSEF 2860]	superfamily	398739	521	656	8.57048e-33	123.276	cl37726	GMC_oxred_C superfamily	 - 	 - 
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	specific	277352	33	320	4.6624e-135	396.324	cd07407	MPP_YHR202W_N	 - 	cl13995
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	superfamily	472684	33	320	4.6624e-135	396.324	cl13995	MPP_superfamily superfamily	 - 	 - 
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	non-specific	440500	37	471	1.55468e-23	104.166	COG0737	UshA	 - 	cl34025
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	superfamily	440500	37	471	1.55468e-23	104.166	cl34025	UshA superfamily	 - 	 - 
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	non-specific	236505	11	432	5.19256e-10	62.9143	PRK09419	PRK09419	N	cl35825
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	superfamily	236505	11	432	5.19256e-10	62.9143	cl35825	PRK09419 superfamily	N	 - 
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	non-specific	427027	401	432	0.00228987	39.1915	pfam02872	5_nucleotid_C	NC	cl37675
+Q#60 - >XP_008597951.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	superfamily	427027	401	432	0.00228987	39.1915	cl37675	5_nucleotid_C superfamily	NC	 - 
+Q#61 - >XP_008597959.1 glucanosyltransferase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	397351	19	330	4.34342e-155	441.815	pfam03198	Glyco_hydro_72	 - 	cl23725
+Q#61 - >XP_008597959.1 glucanosyltransferase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	474034	19	330	4.34342e-155	441.815	cl23725	Glyco_hydro superfamily	 - 	 - 
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	214473	26	279	1.02696e-55	179.796	smart00020	Tryp_SPc	 - 	cl21584
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	473915	26	279	1.02696e-55	179.796	cl21584	Tryp_SPc superfamily	 - 	 - 
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	238113	27	282	4.43277e-55	178.239	cd00190	Tryp_SPc	 - 	cl21584
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	444365	5	287	3.70274e-53	174.452	COG5640	COG5640	 - 	cl44276
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	444365	5	287	3.70274e-53	174.452	cl44276	COG5640 superfamily	 - 	 - 
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	459667	27	279	1.15041e-43	148.359	pfam00089	Trypsin	 - 	cl47494
+Q#63 - >XP_008597997.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	459667	27	279	1.15041e-43	148.359	cl47494	Trypsin superfamily	 - 	 - 
+Q#64 - >XP_008598007.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	specific	397638	29	392	1.74279e-148	427.113	pfam03663	Glyco_hydro_76	 - 	cl04955
+Q#64 - >XP_008598007.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	471159	29	392	1.74279e-148	427.113	cl04955	LanC_like superfamily	 - 	 - 
+Q#64 - >XP_008598007.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	non-specific	443861	60	333	1.05075e-22	98.9216	COG4833	COG4833	 - 	cl42607
+Q#64 - >XP_008598007.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	443861	60	333	1.05075e-22	98.9216	cl42607	COG4833 superfamily	 - 	 - 
+Q#68 - >XP_008598027.1 uncharacterized protein BBA_04708 [Beauveria bassiana ARSEF 2860]	specific	466029	88	214	3.2506e-32	121.249	pfam19287	DUF5910	 - 	cl44721
+Q#68 - >XP_008598027.1 uncharacterized protein BBA_04708 [Beauveria bassiana ARSEF 2860]	superfamily	466029	88	214	3.2506e-32	121.249	cl44721	DUF5910 superfamily	 - 	 - 
+Q#68 - >XP_008598027.1 uncharacterized protein BBA_04708 [Beauveria bassiana ARSEF 2860]	non-specific	173412	214	543	0.000135525	45.5171	PTZ00121	PTZ00121	N	cl31754
+Q#68 - >XP_008598027.1 uncharacterized protein BBA_04708 [Beauveria bassiana ARSEF 2860]	superfamily	173412	214	543	0.000135525	45.5171	cl31754	PTZ00121 superfamily	N	 - 
+Q#69 - >XP_008598086.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	specific	397638	40	391	0	542.288	pfam03663	Glyco_hydro_76	 - 	cl04955
+Q#69 - >XP_008598086.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	471159	40	391	0	542.288	cl04955	LanC_like superfamily	 - 	 - 
+Q#69 - >XP_008598086.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	non-specific	443861	72	373	5.72413e-28	115.1	COG4833	COG4833	 - 	cl42607
+Q#69 - >XP_008598086.1 glycosyl hydrolase family 76 [Beauveria bassiana ARSEF 2860]	superfamily	443861	72	373	5.72413e-28	115.1	cl42607	COG4833 superfamily	 - 	 - 
+Q#70 - >XP_008598094.1 uncharacterized protein BBA_04775 [Beauveria bassiana ARSEF 2860]	specific	433650	128	222	4.34805e-32	113.773	pfam14021	TNT	 - 	cl16544
+Q#70 - >XP_008598094.1 uncharacterized protein BBA_04775 [Beauveria bassiana ARSEF 2860]	superfamily	433650	128	222	4.34805e-32	113.773	cl16544	TNT superfamily	 - 	 - 
+Q#71 - >XP_008598098.1 uncharacterized protein BBA_04779 [Beauveria bassiana ARSEF 2860]	specific	462081	50	437	1.18106e-164	467.335	pfam07075	DUF1343	 - 	cl01598
+Q#71 - >XP_008598098.1 uncharacterized protein BBA_04779 [Beauveria bassiana ARSEF 2860]	superfamily	470263	50	437	1.18106e-164	467.335	cl01598	DUF1343 superfamily	 - 	 - 
+Q#71 - >XP_008598098.1 uncharacterized protein BBA_04779 [Beauveria bassiana ARSEF 2860]	specific	443084	29	438	1.58512e-160	457.672	COG3876	YbbC	 - 	cl01598
+Q#74 - >XP_008598222.1 rasp f 7 allergen [Beauveria bassiana ARSEF 2860]	specific	439247	165	259	1.11451e-28	104.661	cd22191	DPBB_RlpA_EXP_N-like	 - 	cl41724
+Q#74 - >XP_008598222.1 rasp f 7 allergen [Beauveria bassiana ARSEF 2860]	superfamily	455124	165	259	1.11451e-28	104.661	cl41724	DPBB_RlpA_EXP_N-like superfamily	 - 	 - 
+Q#74 - >XP_008598222.1 rasp f 7 allergen [Beauveria bassiana ARSEF 2860]	non-specific	469541	167	239	1.16487e-11	60.4425	NF041659	Papain_Inhib	N	cl49592
+Q#74 - >XP_008598222.1 rasp f 7 allergen [Beauveria bassiana ARSEF 2860]	superfamily	469541	167	239	1.16487e-11	60.4425	cl49592	Papain_Inhib superfamily	N	 - 
+Q#75 - >XP_008598230.1 Bud10 protein [Beauveria bassiana ARSEF 2860]	specific	214795	28	116	1.61008e-07	50.0332	smart00736	CADG	 - 	cl46869
+Q#75 - >XP_008598230.1 Bud10 protein [Beauveria bassiana ARSEF 2860]	superfamily	481209	28	116	1.61008e-07	50.0332	cl46869	X25_BaPul_like superfamily	 - 	 - 
+Q#75 - >XP_008598230.1 Bud10 protein [Beauveria bassiana ARSEF 2860]	specific	214795	149	234	6.18162e-07	48.4924	smart00736	CADG	 - 	cl46869
+Q#75 - >XP_008598230.1 Bud10 protein [Beauveria bassiana ARSEF 2860]	superfamily	481209	149	234	6.18162e-07	48.4924	cl46869	X25_BaPul_like superfamily	 - 	 - 
+Q#75 - >XP_008598230.1 Bud10 protein [Beauveria bassiana ARSEF 2860]	non-specific	206636	26	116	7.37576e-05	42.3482	cd11303	Dystroglycan_repeat	 - 	cl46864
+Q#75 - >XP_008598230.1 Bud10 protein [Beauveria bassiana ARSEF 2860]	superfamily	481204	26	116	7.37576e-05	42.3482	cl46864	CA_like superfamily	 - 	 - 
+Q#76 - >XP_008598275.1 glycosyl hydrolase 53 domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	432075	33	281	5.58435e-69	214.523	pfam11790	Glyco_hydro_cc	 - 	cl23725
+Q#76 - >XP_008598275.1 glycosyl hydrolase 53 domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	474034	33	281	5.58435e-69	214.523	cl23725	Glyco_hydro superfamily	 - 	 - 
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	173788	192	574	2.05167e-114	344.685	cd04056	Peptidases_S53	 - 	cl10459
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	415849	192	574	2.05167e-114	344.685	cl10459	Peptidases_S8_S53 superfamily	 - 	 - 
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	443961	38	577	2.1764e-65	222.149	COG4934	COG4934	 - 	cl34841
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	443961	38	577	2.1764e-65	222.149	cl34841	COG4934 superfamily	 - 	 - 
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	401284	30	163	5.3632e-25	100.755	pfam09286	Pro-kuma_activ	 - 	cl07889
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	415443	30	163	5.3632e-25	100.755	cl07889	Pro-peptidase_S53 superfamily	 - 	 - 
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	214928	38	161	1.85499e-21	90.3926	smart00944	Pro-kuma_activ	 - 	cl07889
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	206778	31	160	3.29414e-21	89.9977	cd11377	Pro-peptidase_S53	 - 	cl07889
+Q#77 - >XP_008598297.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	non-specific	395035	333	503	1.977e-07	52.8465	pfam00082	Peptidase_S8	N	cl10459
+Q#78 - >XP_008598302.1 Heterokaryon incompatibility Het-C [Beauveria bassiana ARSEF 2860]	specific	399889	13	591	0	1121.94	pfam07217	Het-C	 - 	cl20332
+Q#78 - >XP_008598302.1 Heterokaryon incompatibility Het-C [Beauveria bassiana ARSEF 2860]	superfamily	399889	13	591	0	1121.94	cl20332	Het-C superfamily	 - 	 - 
+Q#80 - >XP_008598336.1 amidase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	236161	52	547	2.07808e-105	326.34	PRK08137	PRK08137	 - 	cl18951
+Q#80 - >XP_008598336.1 amidase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	450241	52	547	2.07808e-105	326.34	cl18951	Amidase superfamily	 - 	 - 
+Q#80 - >XP_008598336.1 amidase-like protein [Beauveria bassiana ARSEF 2860]	specific	439924	50	550	2.85821e-71	236.202	COG0154	GatA	 - 	cl43040
+Q#80 - >XP_008598336.1 amidase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	439924	50	550	2.85821e-71	236.202	cl43040	GatA superfamily	 - 	 - 
+Q#80 - >XP_008598336.1 amidase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	396144	76	540	7.35296e-60	205.226	pfam01425	Amidase	 - 	cl18951
+Q#80 - >XP_008598336.1 amidase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	272925	58	354	1.57711e-44	164.049	TIGR00132	gatA	C	cl18951
+Q#82 - >XP_008598407.1 cutinase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	395860	35	231	9.7779e-18	77.3915	pfam01083	Cutinase	 - 	cl21494
+Q#82 - >XP_008598407.1 cutinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	473884	35	231	9.7779e-18	77.3915	cl21494	Abhydrolase superfamily	 - 	 - 
+Q#83 - >XP_008598429.1 phloretin hydrolase [Beauveria bassiana ARSEF 2860]	non-specific	465645	116	299	9.57639e-52	169.882	pfam18089	DAPG_hydrolase	 - 	cl39484
+Q#83 - >XP_008598429.1 phloretin hydrolase [Beauveria bassiana ARSEF 2860]	superfamily	465645	116	299	9.57639e-52	169.882	cl39484	DAPG_hydrolase superfamily	 - 	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	non-specific	227881	592	1108	6.91346e-94	320.906	COG5594	COG5594	N	cl35025
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	227881	592	1108	6.91346e-94	320.906	cl35025	COG5594 superfamily	N	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	specific	460661	719	1000	1.09341e-79	263.225	pfam02714	RSN1_7TM	 - 	cl37668
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	460661	719	1000	1.09341e-79	263.225	cl37668	RSN1_7TM superfamily	 - 	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	specific	433613	67	232	4.8057e-51	176.997	pfam13967	RSN1_TM	 - 	cl16507
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	433613	67	232	4.8057e-51	176.997	cl16507	RSN1_TM superfamily	 - 	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	non-specific	227881	68	329	4.35215e-37	151.419	COG5594	COG5594	C	cl35025
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	227881	68	329	4.35215e-37	151.419	cl35025	COG5594 superfamily	C	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	specific	432676	1178	1256	4.78363e-20	85.6611	pfam12621	PHM7_ext	 - 	cl13993
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	432676	1178	1256	4.78363e-20	85.6611	cl13993	PHM7_ext superfamily	 - 	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	specific	464272	257	327	9.72859e-10	58.8731	pfam14703	PHM7_cyt	C	cl20640
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	464272	257	327	9.72859e-10	58.8731	cl20640	PHM7_cyt superfamily	C	 - 
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	specific	275163	814	1045	0.00180905	42.1459	TIGR04370	glyco_rpt_poly	C	cl40682
+Q#84 - >XP_008598470.1 phosphate metabolism protein 7 [Beauveria bassiana ARSEF 2860]	superfamily	454814	814	1045	0.00180905	42.1459	cl40682	DUF4271 superfamily	C	 - 
+Q#85 - >XP_008598479.1 glycolipid anchored surface protein [Beauveria bassiana ARSEF 2860]	non-specific	397351	13	334	1.87573e-140	407.147	pfam03198	Glyco_hydro_72	 - 	cl23725
+Q#85 - >XP_008598479.1 glycolipid anchored surface protein [Beauveria bassiana ARSEF 2860]	superfamily	474034	13	334	1.87573e-140	407.147	cl23725	Glyco_hydro superfamily	 - 	 - 
+Q#85 - >XP_008598479.1 glycolipid anchored surface protein [Beauveria bassiana ARSEF 2860]	specific	400371	382	458	6.71854e-18	78.0237	pfam07983	X8	 - 	cl06842
+Q#85 - >XP_008598479.1 glycolipid anchored surface protein [Beauveria bassiana ARSEF 2860]	superfamily	414922	382	458	6.71854e-18	78.0237	cl06842	X8 superfamily	 - 	 - 
+Q#85 - >XP_008598479.1 glycolipid anchored surface protein [Beauveria bassiana ARSEF 2860]	non-specific	442481	23	177	4.16926e-06	49.3734	COG3250	LacZ	NC	cl43822
+Q#85 - >XP_008598479.1 glycolipid anchored surface protein [Beauveria bassiana ARSEF 2860]	superfamily	442481	23	177	4.16926e-06	49.3734	cl43822	LacZ superfamily	NC	 - 
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	238113	27	249	8.78726e-44	151.275	cd00190	Tryp_SPc	 - 	cl21584
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	473915	27	249	8.78726e-44	151.275	cl21584	Tryp_SPc superfamily	 - 	 - 
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	444365	8	251	3.65214e-43	150.57	COG5640	COG5640	 - 	cl44276
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	444365	8	251	3.65214e-43	150.57	cl44276	COG5640 superfamily	 - 	 - 
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	214473	26	246	1.46855e-39	140.12	smart00020	Tryp_SPc	 - 	cl21584
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	specific	459667	27	246	1.25931e-31	118.699	pfam00089	Trypsin	 - 	cl47494
+Q#86 - >XP_008598593.1 trypsin-like protein [Beauveria bassiana ARSEF 2860]	superfamily	459667	27	246	1.25931e-31	118.699	cl47494	Trypsin superfamily	 - 	 - 
+Q#87 - >XP_008598661.1 Alginate lyase 2 [Beauveria bassiana ARSEF 2860]	specific	400923	29	244	2.57118e-53	171.411	pfam08787	Alginate_lyase2	 - 	cl21738
+Q#87 - >XP_008598661.1 Alginate lyase 2 [Beauveria bassiana ARSEF 2860]	superfamily	451375	29	244	2.57118e-53	171.411	cl21738	Alginate_lyase2 superfamily	 - 	 - 
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	441906	189	324	8.89034e-21	88.4249	COG2335	FAS1	N	cl47306
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	441906	189	324	8.89034e-21	88.4249	cl47306	FAS1 superfamily	N	 - 
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396845	189	324	4.54147e-20	85.3826	pfam02469	Fasciclin	 - 	cl02663
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	470649	189	324	4.54147e-20	85.3826	cl02663	Fasciclin superfamily	 - 	 - 
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396845	32	174	6.42758e-19	81.9158	pfam02469	Fasciclin	 - 	cl02663
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	470649	32	174	6.42758e-19	81.9158	cl02663	Fasciclin superfamily	 - 	 - 
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	441906	20	174	8.92174e-17	77.2542	COG2335	FAS1	 - 	cl47306
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	441906	20	174	8.92174e-17	77.2542	cl47306	FAS1 superfamily	 - 	 - 
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	214719	210	324	2.61072e-13	65.4611	smart00554	FAS1	 - 	cl02663
+Q#88 - >XP_008598668.1 fasciclin domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	214719	58	175	1.50631e-11	60.4535	smart00554	FAS1	 - 	cl02663
+Q#89 - >XP_008598672.1 class III chitinase ChiA2 [Beauveria bassiana ARSEF 2860]	non-specific	119356	31	327	2.80999e-95	284.132	cd02877	GH18_hevamine_XipI_class_III	 - 	cl10447
+Q#89 - >XP_008598672.1 class III chitinase ChiA2 [Beauveria bassiana ARSEF 2860]	superfamily	471972	31	327	2.80999e-95	284.132	cl10447	GH18_chitinase-like superfamily	 - 	 - 
+Q#89 - >XP_008598672.1 class III chitinase ChiA2 [Beauveria bassiana ARSEF 2860]	specific	425828	34	310	4.87899e-09	56.6948	pfam00704	Glyco_hydro_18	 - 	cl38006
+Q#89 - >XP_008598672.1 class III chitinase ChiA2 [Beauveria bassiana ARSEF 2860]	superfamily	425828	34	310	4.87899e-09	56.6948	cl38006	Glyco_hydro_18 superfamily	 - 	 - 
+Q#92 - >XP_008599030.1 CFEM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	399033	33	96	2.67372e-14	67.477	pfam05730	CFEM	 - 	cl02770
+Q#92 - >XP_008599030.1 CFEM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	413466	33	96	2.67372e-14	67.477	cl02770	CFEM superfamily	 - 	 - 
+Q#92 - >XP_008599030.1 CFEM domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	128986	32	95	1.86207e-10	56.3588	smart00747	CFEM	 - 	cl02770
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	270884	773	1072	8.1601e-130	397.798	cd13982	STKc_IRE1	 - 	cl21453
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	473864	773	1072	8.1601e-130	397.798	cl21453	PKc_like superfamily	 - 	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	specific	188875	158	456	9.33393e-97	310.788	cd09769	Luminal_IRE1	 - 	cl14874
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	276097	158	456	9.33393e-97	310.788	cl14874	Luminal_IRE1_like superfamily	 - 	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	specific	461930	1077	1204	6.45842e-53	181.137	pfam06479	Ribonuc_2-5A	 - 	cl15368
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	472796	1077	1204	6.45842e-53	181.137	cl15368	RNase_Ire1_like superfamily	 - 	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	specific	214567	781	1071	1.98031e-49	176.181	smart00220	S_TKc	 - 	cl21453
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	specific	199217	1076	1204	5.44423e-48	166.992	cd10422	RNase_Ire1	 - 	cl15368
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	specific	440281	781	1067	3.43003e-36	144	COG0515	SPS1	C	cl43163
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	440281	781	1067	3.43003e-36	144	cl43163	SPS1 superfamily	C	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	459660	777	1071	2.31101e-25	105.404	pfam00069	Pkinase	 - 	cl47491
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	459660	777	1071	2.31101e-25	105.404	cl47491	Pkinase superfamily	 - 	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	173333	700	1071	3.28982e-17	85.8575	PTZ00036	PTZ00036	 - 	cl31747
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	173333	700	1071	3.28982e-17	85.8575	cl31747	PTZ00036 superfamily	 - 	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	468045	798	1016	2.12033e-13	74.4463	NF033483	PknB_PASTA_kin	C	cl41276
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	468045	798	1016	2.12033e-13	74.4463	cl41276	PknB_PASTA_kin superfamily	C	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	274846	798	953	2.02653e-09	62.1695	TIGR03903	TOMM_kin_cyc	C	cl37341
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	274846	798	953	2.02653e-09	62.1695	cl37341	TOMM_kin_cyc superfamily	C	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	197798	1147	1184	0.000956711	38.4381	smart00580	PUG	 - 	cl15262
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	472791	1147	1184	0.000956711	38.4381	cl15262	PUB superfamily	 - 	 - 
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	non-specific	433144	157	283	0.00110135	42.0047	pfam13360	PQQ_2	N	cl38403
+Q#94 - >XP_008599089.1 serine/threonine kinase IREI [Beauveria bassiana ARSEF 2860]	superfamily	433144	157	283	0.00110135	42.0047	cl38403	PQQ_2 superfamily	N	 - 
+Q#95 - >XP_008599127.1 cell wall protein [Beauveria bassiana ARSEF 2860]	specific	463524	22	139	8.03002e-17	74.6294	pfam12296	HsbA	 - 	cl13699
+Q#95 - >XP_008599127.1 cell wall protein [Beauveria bassiana ARSEF 2860]	superfamily	463524	22	139	8.03002e-17	74.6294	cl13699	HsbA superfamily	 - 	 - 
+Q#96 - >XP_008599201.1 uncharacterized protein BBA_05882 [Beauveria bassiana ARSEF 2860]	specific	460797	158	381	2.22763e-56	183.983	pfam03080	Neprosin	 - 	cl03877
+Q#96 - >XP_008599201.1 uncharacterized protein BBA_05882 [Beauveria bassiana ARSEF 2860]	superfamily	460797	158	381	2.22763e-56	183.983	cl03877	Neprosin superfamily	 - 	 - 
+Q#97 - >XP_008599213.1 eukaryotic aspartyl protease [Beauveria bassiana ARSEF 2860]	specific	133138	110	413	5.61216e-70	225.382	cd05471	pepsin_like	 - 	cl11403
+Q#97 - >XP_008599213.1 eukaryotic aspartyl protease [Beauveria bassiana ARSEF 2860]	superfamily	472175	110	413	5.61216e-70	225.382	cl11403	pepsin_retropepsin_like superfamily	 - 	 - 
+Q#97 - >XP_008599213.1 eukaryotic aspartyl protease [Beauveria bassiana ARSEF 2860]	non-specific	394983	109	412	4.62368e-66	215.986	pfam00026	Asp	 - 	cl11403
+Q#97 - >XP_008599213.1 eukaryotic aspartyl protease [Beauveria bassiana ARSEF 2860]	non-specific	240300	1	415	7.64324e-27	113.315	PTZ00165	PTZ00165	 - 	cl36521
+Q#97 - >XP_008599213.1 eukaryotic aspartyl protease [Beauveria bassiana ARSEF 2860]	superfamily	240300	1	415	7.64324e-27	113.315	cl36521	PTZ00165 superfamily	 - 	 - 
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	460348	142	224	1.81669e-19	83.2773	pfam01822	WSC	 - 	cl47698
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	460348	142	224	1.81669e-19	83.2773	cl47698	WSC superfamily	 - 	 - 
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	460348	40	116	3.68944e-16	74.0325	pfam01822	WSC	 - 	cl47698
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	460348	40	116	3.68944e-16	74.0325	cl47698	WSC superfamily	 - 	 - 
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214616	139	232	1.86703e-13	66.7249	smart00321	WSC	 - 	cl47036
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	214616	139	232	1.86703e-13	66.7249	cl47036	WSC superfamily	 - 	 - 
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214616	37	122	1.33703e-09	55.5541	smart00321	WSC	 - 	cl47036
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	214616	37	122	1.33703e-09	55.5541	cl47036	WSC superfamily	 - 	 - 
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	188093	139	213	0.00739334	40.0655	TIGR00864	PCC	C	cl28216
+Q#98 - >XP_008599248.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	188093	139	213	0.00739334	40.0655	cl28216	PCC superfamily	C	 - 
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	173788	195	570	1.04265e-115	347.766	cd04056	Peptidases_S53	 - 	cl10459
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	415849	195	570	1.04265e-115	347.766	cl10459	Peptidases_S8_S53 superfamily	 - 	 - 
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	443961	40	573	1.00825e-56	199.037	COG4934	COG4934	 - 	cl34841
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	443961	40	573	1.00825e-56	199.037	cl34841	COG4934 superfamily	 - 	 - 
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	214928	40	159	9.55513e-25	99.6374	smart00944	Pro-kuma_activ	 - 	cl07889
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	415443	40	159	9.55513e-25	99.6374	cl07889	Pro-peptidase_S53 superfamily	 - 	 - 
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	401284	31	161	1.0024e-24	99.9843	pfam09286	Pro-kuma_activ	 - 	cl07889
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	specific	206778	32	155	5.27816e-21	89.2273	cd11377	Pro-peptidase_S53	 - 	cl07889
+Q#99 - >XP_008599276.1 tripeptidyl peptidase precursor [Beauveria bassiana ARSEF 2860]	non-specific	395035	230	502	2.48276e-05	46.2981	pfam00082	Peptidase_S8	 - 	cl10459
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	specific	429762	288	779	0	547.466	pfam07971	Glyco_hydro_92	 - 	cl40157
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	superfamily	429762	288	779	0	547.466	cl40157	Glyco_hydro_92 superfamily	 - 	 - 
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	non-specific	442758	20	797	5.17749e-174	519.362	COG3537	COG3537	 - 	cl39141
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	superfamily	442758	20	797	5.17749e-174	519.362	cl39141	COG3537 superfamily	 - 	 - 
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	specific	465455	33	282	2.32976e-70	230.932	pfam17678	Glyco_hydro_92N	 - 	cl40182
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	superfamily	465455	33	282	2.32976e-70	230.932	cl40182	Glyco_hydro_92N superfamily	 - 	 - 
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	non-specific	273488	29	781	6.82379e-66	233.638	TIGR01180	aman2_put	 - 	cl39160
+Q#100 - >XP_008599338.1 alpha-1,2-mannosidase, putative subfamily [Beauveria bassiana ARSEF 2860]	superfamily	273488	29	781	6.82379e-66	233.638	cl39160	aman2_put superfamily	 - 	 - 
+Q#101 - >XP_008599340.1 Ribosome-inactivating protein [Beauveria bassiana ARSEF 2860]	specific	459695	76	264	9.99327e-69	220.288	pfam00161	RIP	 - 	cl08249
+Q#101 - >XP_008599340.1 Ribosome-inactivating protein [Beauveria bassiana ARSEF 2860]	superfamily	459695	76	264	9.99327e-69	220.288	cl08249	RIP superfamily	 - 	 - 
+Q#101 - >XP_008599340.1 Ribosome-inactivating protein [Beauveria bassiana ARSEF 2860]	specific	466392	322	547	4.05324e-50	172.923	pfam20241	DUF6598	 - 	cl48408
+Q#101 - >XP_008599340.1 Ribosome-inactivating protein [Beauveria bassiana ARSEF 2860]	superfamily	466392	322	547	4.05324e-50	172.923	cl48408	DUF6598 superfamily	 - 	 - 
+Q#104 - >XP_008599570.1 tyrosinase 2 [Beauveria bassiana ARSEF 2860]	specific	425566	77	315	1.22107e-34	129.897	pfam00264	Tyrosinase	 - 	cl02830
+Q#104 - >XP_008599570.1 tyrosinase 2 [Beauveria bassiana ARSEF 2860]	superfamily	470683	77	315	1.22107e-34	129.897	cl02830	Tyrosinase superfamily	 - 	 - 
+Q#105 - >XP_008599969.1 putative aspartic endopeptidase [Beauveria bassiana ARSEF 2860]	specific	133141	59	420	1.7976e-87	269.82	cd05474	SAP_like	 - 	cl11403
+Q#105 - >XP_008599969.1 putative aspartic endopeptidase [Beauveria bassiana ARSEF 2860]	superfamily	472175	59	420	1.7976e-87	269.82	cl11403	pepsin_retropepsin_like superfamily	 - 	 - 
+Q#105 - >XP_008599969.1 putative aspartic endopeptidase [Beauveria bassiana ARSEF 2860]	non-specific	394983	58	420	1.78287e-65	213.675	pfam00026	Asp	 - 	cl11403
+Q#105 - >XP_008599969.1 putative aspartic endopeptidase [Beauveria bassiana ARSEF 2860]	non-specific	240300	51	436	2.77127e-28	117.167	PTZ00165	PTZ00165	N	cl36521
+Q#105 - >XP_008599969.1 putative aspartic endopeptidase [Beauveria bassiana ARSEF 2860]	superfamily	240300	51	436	2.77127e-28	117.167	cl36521	PTZ00165 superfamily	N	 - 
+Q#106 - >XP_008600014.1 acid proteinase A [Beauveria bassiana ARSEF 2860]	specific	426460	84	288	6.53464e-61	192.092	pfam01828	Peptidase_A4	 - 	cl03371
+Q#106 - >XP_008600014.1 acid proteinase A [Beauveria bassiana ARSEF 2860]	superfamily	446078	84	288	6.53464e-61	192.092	cl03371	Peptidase_G1_like superfamily	 - 	 - 
+Q#106 - >XP_008600014.1 acid proteinase A [Beauveria bassiana ARSEF 2860]	specific	240449	84	291	4.70744e-59	187.537	cd13426	Peptidase_G1	 - 	cl03371
+Q#107 - >XP_008600025.1 Chitin-binding, domain 3 [Beauveria bassiana ARSEF 2860]	non-specific	410622	129	170	0.00610717	37.9589	cd21175	LPMO_AA9	N	cl41755
+Q#107 - >XP_008600025.1 Chitin-binding, domain 3 [Beauveria bassiana ARSEF 2860]	superfamily	425386	129	170	0.00610717	37.9589	cl41755	LPMO_auxiliary superfamily	N	 - 
+Q#108 - >XP_008600034.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	specific	467840	119	836	0	862.206	cd23668	GH55_beta13glucanase-like	 - 	cl49631
+Q#108 - >XP_008600034.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	superfamily	483971	119	836	0	862.206	cl49631	GH55-like superfamily	 - 	 - 
+Q#108 - >XP_008600034.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	specific	403800	141	383	2.06421e-70	234.905	pfam12708	Pectate_lyase_3	 - 	cl40625
+Q#108 - >XP_008600034.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	superfamily	403800	141	383	2.06421e-70	234.905	cl40625	Pectate_lyase_3 superfamily	 - 	 - 
+Q#110 - >XP_008600103.1 mediator of RNA polymerase II transcription subunit 31 [Beauveria bassiana ARSEF 2860]	specific	428575	388	484	3.13868e-51	168.854	pfam05669	Med31	 - 	cl02121
+Q#110 - >XP_008600103.1 mediator of RNA polymerase II transcription subunit 31 [Beauveria bassiana ARSEF 2860]	superfamily	445676	388	484	3.13868e-51	168.854	cl02121	Med31 superfamily	 - 	 - 
+Q#110 - >XP_008600103.1 mediator of RNA polymerase II transcription subunit 31 [Beauveria bassiana ARSEF 2860]	non-specific	227420	389	474	4.90181e-24	96.4895	COG5088	SOH1	 - 	cl02121
+Q#110 - >XP_008600103.1 mediator of RNA polymerase II transcription subunit 31 [Beauveria bassiana ARSEF 2860]	specific	399033	19	86	4.99173e-15	69.403	pfam05730	CFEM	 - 	cl02770
+Q#110 - >XP_008600103.1 mediator of RNA polymerase II transcription subunit 31 [Beauveria bassiana ARSEF 2860]	superfamily	413466	19	86	4.99173e-15	69.403	cl02770	CFEM superfamily	 - 	 - 
+Q#110 - >XP_008600103.1 mediator of RNA polymerase II transcription subunit 31 [Beauveria bassiana ARSEF 2860]	specific	128986	19	85	1.16845e-12	62.9072	smart00747	CFEM	 - 	cl02770
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	non-specific	396048	50	381	9.81899e-100	316.12	pfam01301	Glyco_hydro_35	 - 	cl38930
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	476817	50	381	9.81899e-100	316.12	cl38930	AmyAc_family superfamily	 - 	 - 
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	specific	463092	395	567	3.37873e-73	239.374	pfam10435	BetaGal_dom2	 - 	cl19747
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	473202	395	567	3.37873e-73	239.374	cl19747	BetaGal_dom2 superfamily	 - 	 - 
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	specific	198097	393	568	8.26578e-53	182.558	smart01029	BetaGal_dom2	 - 	cl19747
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	non-specific	166698	44	454	4.02485e-30	128.584	PLN03059	PLN03059	C	cl31552
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	166698	44	454	4.02485e-30	128.584	cl31552	PLN03059 superfamily	C	 - 
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	specific	463857	859	973	5.17099e-28	108.872	pfam13364	BetaGal_dom4_5	 - 	cl18635
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	463857	859	973	5.17099e-28	108.872	cl18635	BetaGal_dom4_5 superfamily	 - 	 - 
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	specific	463856	586	650	1.80101e-25	100.235	pfam13363	BetaGal_dom3	 - 	cl16253
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	463856	586	650	1.80101e-25	100.235	cl16253	BetaGal_dom3 superfamily	 - 	 - 
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	specific	463857	683	795	1.4402e-23	96.5458	pfam13364	BetaGal_dom4_5	 - 	cl18635
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	463857	683	795	1.4402e-23	96.5458	cl18635	BetaGal_dom4_5 superfamily	 - 	 - 
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	non-specific	441478	52	368	1.99863e-18	90.3707	COG1874	GanA	C	cl34369
+Q#111 - >XP_008600119.1 beta-galactosidase [Beauveria bassiana ARSEF 2860]	superfamily	441478	52	368	1.99863e-18	90.3707	cl34369	GanA superfamily	C	 - 
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	specific	441445	60	344	3.15554e-30	116.958	COG1840	AfuA	 - 	cl43538
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	superfamily	441445	60	344	3.15554e-30	116.958	cl43538	AfuA superfamily	 - 	 - 
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	non-specific	270265	57	305	2.39694e-23	97.6785	cd13547	PBP2_Fbp_like_2	 - 	cl21456
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	superfamily	473866	57	305	2.39694e-23	97.6785	cl21456	Periplasmic_Binding_Protein_Type_2 superfamily	 - 	 - 
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	non-specific	237887	37	303	5.17113e-10	60.0846	PRK15046	PRK15046	 - 	cl21456
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	non-specific	463852	123	299	3.33615e-09	56.9841	pfam13343	SBP_bac_6	 - 	cl48178
+Q#113 - >XP_008600218.1 Fe3+ ABC transporter periplasmic protein [Beauveria bassiana ARSEF 2860]	superfamily	463852	123	299	3.33615e-09	56.9841	cl48178	SBP_bac_6 superfamily	 - 	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	119356	26	331	9.15516e-87	273.731	cd02877	GH18_hevamine_XipI_class_III	 - 	cl10447
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	471972	26	331	9.15516e-87	273.731	cl10447	GH18_chitinase-like superfamily	 - 	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	specific	425828	70	277	4.90865e-12	67.4804	pfam00704	Glyco_hydro_18	C	cl38006
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	425828	70	277	4.90865e-12	67.4804	cl38006	Glyco_hydro_18 superfamily	C	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	222808	523	583	4.01892e-05	45.4159	PHA00666	PHA00666	C	cl18692
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	222808	523	583	4.01892e-05	45.4159	cl18692	PHA00666 superfamily	C	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	177464	514	674	7.17634e-05	45.2373	PHA02682	PHA02682	C	cl31817
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	177464	514	674	7.17634e-05	45.2373	cl31817	PHA02682 superfamily	C	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	465521	390	631	0.000116958	45.3359	pfam17823	DUF5585	NC	cl39316
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	465521	390	631	0.000116958	45.3359	cl39316	DUF5585 superfamily	NC	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	442692	98	316	0.000179335	44.7437	COG3469	Chi1	N	cl43877
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	442692	98	316	0.000179335	44.7437	cl43877	Chi1 superfamily	N	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	specific	464580	520	597	0.000314204	41.947	pfam15240	Pro-rich	N	cl26282
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	464580	520	597	0.000314204	41.947	cl26282	Pro-rich superfamily	N	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	165513	380	531	0.00198981	40.2722	PHA03255	PHA03255	C	cl31530
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	165513	380	531	0.00198981	40.2722	cl31530	PHA03255 superfamily	C	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	468202	522	674	0.00347414	40.5224	NF033839	PspC_subgroup_2	N	cl41463
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	468202	522	674	0.00347414	40.5224	cl41463	PspC_subgroup_2 superfamily	N	 - 
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	non-specific	468202	515	617	0.00449524	40.1372	NF033839	PspC_subgroup_2	N	cl41463
+Q#117 - >XP_008601064.1 Glycoside hydrolase, catalytic core [Beauveria bassiana ARSEF 2860]	superfamily	468202	515	617	0.00449524	40.1372	cl41463	PspC_subgroup_2 superfamily	N	 - 
+Q#118 - >XP_008601099.1 alpha-N-acetylglucosaminidase [Beauveria bassiana ARSEF 2860]	specific	461545	131	468	6.74532e-175	504.333	pfam05089	NAGLU	 - 	cl09358
+Q#118 - >XP_008601099.1 alpha-N-acetylglucosaminidase [Beauveria bassiana ARSEF 2860]	superfamily	461545	131	468	6.74532e-175	504.333	cl09358	NAGLU superfamily	 - 	 - 
+Q#118 - >XP_008601099.1 alpha-N-acetylglucosaminidase [Beauveria bassiana ARSEF 2860]	specific	463763	478	732	1.13839e-75	245.218	pfam12972	NAGLU_C	 - 	cl15206
+Q#118 - >XP_008601099.1 alpha-N-acetylglucosaminidase [Beauveria bassiana ARSEF 2860]	superfamily	463763	478	732	1.13839e-75	245.218	cl15206	NAGLU_C superfamily	 - 	 - 
+Q#118 - >XP_008601099.1 alpha-N-acetylglucosaminidase [Beauveria bassiana ARSEF 2860]	specific	463762	27	116	3.55486e-22	91.0407	pfam12971	NAGLU_N	 - 	cl15205
+Q#118 - >XP_008601099.1 alpha-N-acetylglucosaminidase [Beauveria bassiana ARSEF 2860]	superfamily	463762	27	116	3.55486e-22	91.0407	cl15205	NAGLU_N superfamily	 - 	 - 
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	441081	78	478	2.71625e-87	286.598	COG1472	BglX	C	cl34276
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	441081	78	478	2.71625e-87	286.598	cl34276	BglX superfamily	C	 - 
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396478	448	680	1.7783e-49	174.041	pfam01915	Glyco_hydro_3_C	 - 	cl38063
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	396478	448	680	1.7783e-49	174.041	cl38063	Glyco_hydro_3_C superfamily	 - 	 - 
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	395747	135	385	4.46844e-41	153.719	pfam00933	Glyco_hydro_3	 - 	cl29895
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	421946	135	385	4.46844e-41	153.719	cl29895	Glyco_hydro_3 superfamily	 - 	 - 
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	185053	155	896	8.81529e-40	158.307	PRK15098	PRK15098	 - 	cl33080
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	185053	155	896	8.81529e-40	158.307	cl33080	PRK15098 superfamily	 - 	 - 
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	433860	826	899	6.42402e-22	90.2204	pfam14310	Fn3-like	 - 	cl17048
+Q#119 - >XP_008601117.1 glycosyl hydrolase family 3 N terminal domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	433860	826	899	6.42402e-22	90.2204	cl17048	Fn3-like superfamily	 - 	 - 
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	non-specific	399731	331	443	1.46982e-06	49.036	pfam06951	PLA2G12	N	cl29745
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	superfamily	453050	331	443	1.46982e-06	49.036	cl29745	Phospholip_A2_3 superfamily	N	 - 
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	non-specific	461466	444	481	0.000922389	39.6734	pfam04885	Stig1	N	cl20279
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	superfamily	461466	444	481	0.000922389	39.6734	cl20279	Stig1 superfamily	N	 - 
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	non-specific	469225	446	501	0.00287159	38.5854	NF041328	C_rich_MXAN6577	N	cl49352
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	superfamily	469225	446	501	0.00287159	38.5854	cl49352	C_rich_MXAN6577 superfamily	N	 - 
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	non-specific	469225	446	543	0.00304009	38.5854	NF041328	C_rich_MXAN6577	C	cl49352
+Q#120 - >XP_008601123.1 putative salivary secreted peptide [Beauveria bassiana ARSEF 2860]	superfamily	469225	446	543	0.00304009	38.5854	cl49352	C_rich_MXAN6577 superfamily	C	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	non-specific	349873	242	429	1.46612e-79	249.521	cd03876	M28_SGAP_like	N	cl14876
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	472712	242	429	1.46612e-79	249.521	cl14876	Zinc_peptidase_like superfamily	N	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	specific	441835	217	429	1.08012e-51	176.09	COG2234	Iap	 - 	cl34440
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	441835	217	429	1.08012e-51	176.09	cl34440	Iap superfamily	 - 	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	specific	461288	246	429	1.69865e-51	173.24	pfam04389	Peptidase_M28	 - 	cl47885
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	461288	246	429	1.69865e-51	173.24	cl47885	Peptidase_M28 superfamily	 - 	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	specific	240120	109	233	1.88657e-39	138.998	cd04816	PA_SaNapH_like	 - 	cl28883
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	333703	109	233	1.88657e-39	138.998	cl28883	PA superfamily	 - 	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	non-specific	468356	149	265	4.80691e-14	74.6888	NF038113	T9SSA_dep_M36	NC	cl45607
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	468356	149	265	4.80691e-14	74.6888	cl45607	T9SSA_dep_M36 superfamily	NC	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	non-specific	468355	154	241	1.28002e-10	64.2927	NF038112	myxo_dep_M36	NC	cl45606
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	468355	154	241	1.28002e-10	64.2927	cl45606	myxo_dep_M36 superfamily	NC	 - 
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	specific	460499	149	219	8.5177e-10	55.5976	pfam02225	PA	 - 	cl38067
+Q#121 - >XP_008601164.1 peptidase family M28 [Beauveria bassiana ARSEF 2860]	superfamily	460499	149	219	8.5177e-10	55.5976	cl38067	PA superfamily	 - 	 - 
+Q#122 - >XP_008601239.1 Zinc finger CCCH type domain containing protein [Beauveria bassiana ARSEF 2860]	non-specific	227416	266	470	2.46856e-31	122.287	COG5084	YTH1	 - 	cl25862
+Q#122 - >XP_008601239.1 Zinc finger CCCH type domain containing protein [Beauveria bassiana ARSEF 2860]	superfamily	227416	266	470	2.46856e-31	122.287	cl25862	YTH1 superfamily	 - 	 - 
+Q#122 - >XP_008601239.1 Zinc finger CCCH type domain containing protein [Beauveria bassiana ARSEF 2860]	specific	459885	353	378	0.000203792	38.3283	pfam00642	zf-CCCH	 - 	cl47575
+Q#122 - >XP_008601239.1 Zinc finger CCCH type domain containing protein [Beauveria bassiana ARSEF 2860]	superfamily	459885	353	378	0.000203792	38.3283	cl47575	zf-CCCH superfamily	 - 	 - 
+Q#123 - >XP_008601254.1 uncharacterized protein BBA_07935 [Beauveria bassiana ARSEF 2860]	specific	464218	107	284	7.08393e-48	160.982	pfam14610	Psg1	 - 	cl20586
+Q#123 - >XP_008601254.1 uncharacterized protein BBA_07935 [Beauveria bassiana ARSEF 2860]	superfamily	464218	107	284	7.08393e-48	160.982	cl20586	Psg1 superfamily	 - 	 - 
+Q#125 - >XP_008601297.1 ribophorin I [Beauveria bassiana ARSEF 2860]	specific	428028	38	472	0	581.844	pfam04597	Ribophorin_I	 - 	cl04619
+Q#125 - >XP_008601297.1 ribophorin I [Beauveria bassiana ARSEF 2860]	superfamily	428028	38	472	0	581.844	cl04619	Ribophorin_I superfamily	 - 	 - 
+Q#126 - >XP_008601376.1 6-hydroxy-D-nicotine oxidase [Beauveria bassiana ARSEF 2860]	specific	440046	39	484	2.04334e-12	69.1519	COG0277	GlcD	 - 	cl43085
+Q#126 - >XP_008601376.1 6-hydroxy-D-nicotine oxidase [Beauveria bassiana ARSEF 2860]	superfamily	440046	39	484	2.04334e-12	69.1519	cl43085	GlcD superfamily	 - 	 - 
+Q#126 - >XP_008601376.1 6-hydroxy-D-nicotine oxidase [Beauveria bassiana ARSEF 2860]	non-specific	426326	59	195	5.68183e-09	54.5144	pfam01565	FAD_binding_4	 - 	cl47204
+Q#126 - >XP_008601376.1 6-hydroxy-D-nicotine oxidase [Beauveria bassiana ARSEF 2860]	superfamily	426326	59	195	5.68183e-09	54.5144	cl47204	FAD_binding_4 superfamily	 - 	 - 
+Q#127 - >XP_008601399.1 uncharacterized protein BBA_08080 [Beauveria bassiana ARSEF 2860]	non-specific	433846	350	382	5.81608e-05	40.4656	pfam14295	PAN_4	N	cl00112
+Q#127 - >XP_008601399.1 uncharacterized protein BBA_08080 [Beauveria bassiana ARSEF 2860]	superfamily	469620	350	382	5.81608e-05	40.4656	cl00112	PAN_APPLE superfamily	N	 - 
+Q#127 - >XP_008601399.1 uncharacterized protein BBA_08080 [Beauveria bassiana ARSEF 2860]	non-specific	459635	337	407	0.00599661	35.6058	pfam00024	PAN_1	 - 	cl45981
+Q#127 - >XP_008601399.1 uncharacterized protein BBA_08080 [Beauveria bassiana ARSEF 2860]	superfamily	459635	337	407	0.00599661	35.6058	cl45981	PAN_1 superfamily	 - 	 - 
+Q#128 - >XP_008601483.1 feruloyl esterase A precursor [Beauveria bassiana ARSEF 2860]	specific	238287	69	257	1.36908e-43	149.164	cd00519	Lipase_3	N	cl21494
+Q#128 - >XP_008601483.1 feruloyl esterase A precursor [Beauveria bassiana ARSEF 2860]	superfamily	473884	69	257	1.36908e-43	149.164	cl21494	Abhydrolase superfamily	N	 - 
+Q#128 - >XP_008601483.1 feruloyl esterase A precursor [Beauveria bassiana ARSEF 2860]	specific	396362	88	228	2.23138e-36	127.762	pfam01764	Lipase_3	 - 	cl21494
+Q#128 - >XP_008601483.1 feruloyl esterase A precursor [Beauveria bassiana ARSEF 2860]	non-specific	442891	66	243	2.4289e-29	112.926	COG3675	Lip2	C	cl28574
+Q#128 - >XP_008601483.1 feruloyl esterase A precursor [Beauveria bassiana ARSEF 2860]	superfamily	442891	66	243	2.4289e-29	112.926	cl28574	Lip2 superfamily	C	 - 
+Q#128 - >XP_008601483.1 feruloyl esterase A precursor [Beauveria bassiana ARSEF 2860]	non-specific	215432	39	237	8.68859e-12	65.5621	PLN02802	PLN02802	N	cl21494
+Q#129 - >XP_008601494.1 evolved D-lactonohydrolase [Beauveria bassiana ARSEF 2860]	specific	442613	225	384	3.4739e-28	111.522	COG3386	YvrE	N	cl34598
+Q#129 - >XP_008601494.1 evolved D-lactonohydrolase [Beauveria bassiana ARSEF 2860]	superfamily	442613	225	384	3.4739e-28	111.522	cl34598	YvrE superfamily	N	 - 
+Q#129 - >XP_008601494.1 evolved D-lactonohydrolase [Beauveria bassiana ARSEF 2860]	non-specific	462480	230	371	2.35978e-18	83.8512	pfam08450	SGL	N	cl37778
+Q#129 - >XP_008601494.1 evolved D-lactonohydrolase [Beauveria bassiana ARSEF 2860]	superfamily	462480	230	371	2.35978e-18	83.8512	cl37778	SGL superfamily	N	 - 
+Q#129 - >XP_008601494.1 evolved D-lactonohydrolase [Beauveria bassiana ARSEF 2860]	non-specific	271332	225	368	7.54032e-06	47.1966	cd14962	NHL_like_6	N	cl18310
+Q#129 - >XP_008601494.1 evolved D-lactonohydrolase [Beauveria bassiana ARSEF 2860]	superfamily	302697	225	368	7.54032e-06	47.1966	cl18310	NHL superfamily	N	 - 
+Q#130 - >XP_008601543.1 uncharacterized protein BBA_08224 [Beauveria bassiana ARSEF 2860]	specific	411995	30	348	5.0806e-71	224.434	cd12811	MALA	 - 	cl41664
+Q#130 - >XP_008601543.1 uncharacterized protein BBA_08224 [Beauveria bassiana ARSEF 2860]	superfamily	411995	30	348	5.0806e-71	224.434	cl41664	MALA superfamily	 - 	 - 
+Q#130 - >XP_008601543.1 uncharacterized protein BBA_08224 [Beauveria bassiana ARSEF 2860]	non-specific	443399	137	238	0.00197757	39.6176	COG4257	Vgb	C	cl26743
+Q#130 - >XP_008601543.1 uncharacterized protein BBA_08224 [Beauveria bassiana ARSEF 2860]	superfamily	443399	137	238	0.00197757	39.6176	cl26743	Vgb superfamily	C	 - 
+Q#131 - >XP_008601562.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	specific	277329	37	350	9.66042e-68	214.464	cd07383	MPP_Dcr2	 - 	cl13995
+Q#131 - >XP_008601562.1 calcineurin-like phosphoesterase [Beauveria bassiana ARSEF 2860]	superfamily	472684	37	350	9.66042e-68	214.464	cl13995	MPP_superfamily superfamily	 - 	 - 
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	specific	467840	557	1264	0	909.201	cd23668	GH55_beta13glucanase-like	 - 	cl49631
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	superfamily	483971	557	1264	0	909.201	cl49631	GH55-like superfamily	 - 	 - 
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	specific	403800	558	788	7.73046e-78	256.476	pfam12708	Pectate_lyase_3	 - 	cl40625
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	superfamily	403800	558	788	7.73046e-78	256.476	cl40625	Pectate_lyase_3 superfamily	 - 	 - 
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	non-specific	444185	560	847	8.48319e-09	59.8343	COG5434	Pgu1	 - 	cl35001
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	superfamily	444185	560	847	8.48319e-09	59.8343	cl35001	Pgu1 superfamily	 - 	 - 
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	non-specific	404851	167	194	0.00131771	40.2483	pfam14040	DNase_NucA_NucB	NC	cl16560
+Q#132 - >XP_008601647.1 Pectin lyase fold/virulence factor [Beauveria bassiana ARSEF 2860]	superfamily	404851	167	194	0.00131771	40.2483	cl16560	DNase_NucA_NucB superfamily	NC	 - 
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	non-specific	440844	41	429	3.25945e-12	68.4093	COG1231	YobN	 - 	cl34196
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	superfamily	440844	41	429	3.25945e-12	68.4093	cl34196	YobN superfamily	 - 	 - 
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	specific	433218	46	112	1.77093e-10	56.7707	pfam13450	NAD_binding_8	 - 	cl21454
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	superfamily	473865	46	112	1.77093e-10	56.7707	cl21454	NADB_Rossmann superfamily	 - 	 - 
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	non-specific	177909	44	116	5.90306e-07	51.6119	PLN02268	PLN02268	C	cl31855
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	superfamily	177909	44	116	5.90306e-07	51.6119	cl31855	PLN02268 superfamily	C	 - 
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	non-specific	213540	40	82	0.00641898	39.0489	TIGR00562	proto_IX_ox	C	cl33292
+Q#133 - >XP_008602099.1 FAD dependent oxidoreductase, putative [Beauveria bassiana ARSEF 2860]	superfamily	213540	40	82	0.00641898	39.0489	cl33292	proto_IX_ox superfamily	C	 - 
+Q#134 - >XP_008602112.1 uncharacterized protein BBA_08793 [Beauveria bassiana ARSEF 2860]	specific	463524	27	144	1.28211e-14	66.5402	pfam12296	HsbA	 - 	cl13699
+Q#134 - >XP_008602112.1 uncharacterized protein BBA_08793 [Beauveria bassiana ARSEF 2860]	superfamily	463524	27	144	1.28211e-14	66.5402	cl13699	HsbA superfamily	 - 	 - 
+Q#135 - >XP_008602113.1 uncharacterized protein BBA_08794 [Beauveria bassiana ARSEF 2860]	specific	463524	22	141	8.2771e-11	59.2215	pfam12296	HsbA	 - 	cl13699
+Q#135 - >XP_008602113.1 uncharacterized protein BBA_08794 [Beauveria bassiana ARSEF 2860]	superfamily	463524	22	141	8.2771e-11	59.2215	cl13699	HsbA superfamily	 - 	 - 
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	non-specific	239802	102	243	3.56165e-09	56.9642	cd04275	ZnMc_pappalysin_like	C	cl00064
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	superfamily	469599	102	243	3.56165e-09	56.9642	cl00064	ZnMc superfamily	C	 - 
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	non-specific	283306	317	408	1.62741e-06	50.4781	pfam05616	Neisseria_TspB	N	cl25934
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	superfamily	283306	317	408	1.62741e-06	50.4781	cl25934	Neisseria_TspB superfamily	N	 - 
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	non-specific	239795	195	298	1.95846e-05	45.4889	cd04267	ZnMc_ADAM_like	N	cl00064
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	superfamily	469599	195	298	1.95846e-05	45.4889	cl00064	ZnMc superfamily	N	 - 
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	non-specific	185628	315	391	0.000974223	41.9842	PTZ00449	PTZ00449	NC	cl33186
+Q#136 - >XP_008602182.1 metalloprotease 1 [Beauveria bassiana ARSEF 2860]	superfamily	185628	315	391	0.000974223	41.9842	cl33186	PTZ00449 superfamily	NC	 - 
+Q#137 - >XP_008602200.1 triacylglycerol lipase [Beauveria bassiana ARSEF 2860]	non-specific	441873	21	537	1.3333e-94	297.185	COG2272	PnbA	 - 	cl43668
+Q#137 - >XP_008602200.1 triacylglycerol lipase [Beauveria bassiana ARSEF 2860]	superfamily	441873	21	537	1.3333e-94	297.185	cl43668	PnbA superfamily	 - 	 - 
+Q#137 - >XP_008602200.1 triacylglycerol lipase [Beauveria bassiana ARSEF 2860]	non-specific	395084	27	537	1.1571e-86	277.266	pfam00135	COesterase	 - 	cl21494
+Q#137 - >XP_008602200.1 triacylglycerol lipase [Beauveria bassiana ARSEF 2860]	superfamily	473884	27	537	1.1571e-86	277.266	cl21494	Abhydrolase superfamily	 - 	 - 
+Q#137 - >XP_008602200.1 triacylglycerol lipase [Beauveria bassiana ARSEF 2860]	non-specific	238191	29	525	7.97758e-84	269.202	cd00312	Esterase_lipase	 - 	cl21494
+Q#138 - >XP_008602293.1 antifungal protein [Beauveria bassiana ARSEF 2860]	specific	402834	36	86	8.3188e-19	72.1303	pfam11402	Antifungal_prot	 - 	cl12933
+Q#138 - >XP_008602293.1 antifungal protein [Beauveria bassiana ARSEF 2860]	superfamily	402834	36	86	8.3188e-19	72.1303	cl12933	Antifungal_prot superfamily	 - 	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	217	256	1.13512e-10	56.3397	cd00118	LysM	 - 	cl46249
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	217	256	1.13512e-10	56.3397	cl46249	LysM superfamily	 - 	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	127	166	1.228e-07	47.4801	cd00118	LysM	 - 	cl46249
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	127	166	1.228e-07	47.4801	cl46249	LysM superfamily	 - 	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197609	218	246	6.47389e-07	45.5144	smart00257	LysM	C	cl21525
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	218	246	6.47389e-07	45.5144	cl21525	LysM superfamily	C	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396179	219	245	5.14484e-06	43.1535	pfam01476	LysM	C	cl21525
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	440998	178	250	1.06204e-05	45.0847	COG1388	LysM	N	cl43409
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	440998	178	250	1.06204e-05	45.0847	cl43409	LysM superfamily	N	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	180536	127	245	0.0001957	43.5299	PRK06347	PRK06347	NC	cl32140
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	180536	127	245	0.0001957	43.5299	cl32140	PRK06347 superfamily	NC	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	180536	107	245	0.000646467	41.6039	PRK06347	PRK06347	N	cl32140
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	180536	107	245	0.000646467	41.6039	cl32140	PRK06347 superfamily	N	 - 
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197609	128	167	0.00100669	36.6548	smart00257	LysM	 - 	cl21525
+Q#139 - >XP_008602298.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	128	167	0.00100669	36.6548	cl21525	LysM superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	119357	501	845	0	558.078	cd02878	GH18_zymocin_alpha	 - 	cl10447
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	471972	501	845	0	558.078	cl10447	GH18_chitinase-like superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	214753	501	844	1.42475e-52	188.271	smart00636	Glyco_18	 - 	cl33392
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	214753	501	844	1.42475e-52	188.271	cl33392	Glyco_18 superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	425828	501	843	3.4208e-49	177.647	pfam00704	Glyco_hydro_18	 - 	cl38006
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	425828	501	843	3.4208e-49	177.647	cl38006	Glyco_hydro_18 superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	442554	492	843	7.52563e-40	153.143	COG3325	ChiA	 - 	cl34587
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	442554	492	843	7.52563e-40	153.143	cl34587	ChiA superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	434271	1344	1445	1.44091e-35	130.944	pfam14856	Hce2	 - 	cl20754
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	434271	1344	1445	1.44091e-35	130.944	cl20754	Hce2 superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	459705	424	487	2.43708e-07	48.3123	pfam00187	Chitin_bind_1	 - 	cl45987
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	459705	424	487	2.43708e-07	48.3123	cl45987	Chitin_bind_1 superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	211311	424	488	0.000213565	40.0614	cd00035	ChtBD1	 - 	cl16916
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	473047	424	488	0.000213565	40.0614	cl16916	ChtBD1 superfamily	 - 	 - 
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	214593	445	465	0.00187972	37.3461	smart00270	ChtBD1	NC	cl16916
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	specific	212030	363	394	0.00720527	35.9241	cd00118	LysM	C	cl46249
+Q#140 - >XP_008602301.1 chitinase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	363	394	0.00720527	35.9241	cl46249	LysM superfamily	C	 - 
+Q#142 - >XP_008602408.1 putative Heat-labile enterotoxin IIB, A chain [Beauveria bassiana ARSEF 2860]	non-specific	366600	41	188	1.65605e-19	85.6894	pfam01375	Enterotoxin_a	C	cl03779
+Q#142 - >XP_008602408.1 putative Heat-labile enterotoxin IIB, A chain [Beauveria bassiana ARSEF 2860]	superfamily	413808	41	188	1.65605e-19	85.6894	cl03779	Enterotoxin_a superfamily	C	 - 
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	non-specific	185690	54	325	1.37037e-105	322.256	cd02181	GH16_fungal_Lam16A_glucanase	 - 	cl22861
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	superfamily	473984	54	325	1.37037e-105	322.256	cl22861	LamG superfamily	 - 	 - 
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	specific	441874	101	306	5.05731e-14	72.3287	COG2273	BglS	N	cl34454
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	superfamily	441874	101	306	5.05731e-14	72.3287	cl34454	BglS superfamily	N	 - 
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	non-specific	395585	101	148	0.0013293	39.8834	pfam00722	Glyco_hydro_16	C	cl22861
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	non-specific	183756	524	648	0.0099496	38.9286	PRK12799	motB	N	cl32828
+Q#144 - >XP_008602447.1 Concanavalin A-like lectin/glucanase [Beauveria bassiana ARSEF 2860]	superfamily	183756	524	648	0.0099496	38.9286	cl32828	motB superfamily	N	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	specific	271112	1386	1696	0	624.953	cd14210	PKc_DYRK	 - 	cl21453
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	473864	1386	1696	0	624.953	cl21453	PKc_like superfamily	 - 	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	specific	214567	1400	1696	3.58641e-75	250.525	smart00220	S_TKc	 - 	cl21453
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	specific	440281	1394	1795	3.24224e-38	150.933	COG0515	SPS1	C	cl43163
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	440281	1394	1795	3.24224e-38	150.933	cl43163	SPS1 superfamily	C	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	non-specific	459660	1400	1696	6.7293e-37	139.301	pfam00069	Pkinase	 - 	cl47491
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	459660	1400	1696	6.7293e-37	139.301	cl47491	Pkinase superfamily	 - 	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	non-specific	240233	1399	1705	5.31476e-36	140.666	PTZ00024	PTZ00024	 - 	cl36498
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	240233	1399	1705	5.31476e-36	140.666	cl36498	PTZ00024 superfamily	 - 	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	specific	463135	335	431	4.06949e-14	69.4996	pfam10528	GLEYA	 - 	cl48093
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	463135	335	431	4.06949e-14	69.4996	cl48093	GLEYA superfamily	 - 	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	non-specific	468045	1393	1604	4.63408e-13	74.0611	NF033483	PknB_PASTA_kin	C	cl41276
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	468045	1393	1604	4.63408e-13	74.0611	cl41276	PknB_PASTA_kin superfamily	C	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	non-specific	223021	616	1026	1.37014e-09	63.8041	PHA03247	PHA03247	N	cl33720
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	223021	616	1026	1.37014e-09	63.8041	cl33720	PHA03247 superfamily	N	 - 
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	non-specific	460830	696	1033	9.18258e-07	54.0026	pfam03154	Atrophin-1	C	cl38111
+Q#148 - >XP_008602554.1 putative dual specificity protein kinase pom1 [Beauveria bassiana ARSEF 2860]	superfamily	460830	696	1033	9.18258e-07	54.0026	cl38111	Atrophin-1 superfamily	C	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	399445	712	832	2.70648e-12	66.6287	pfam06439	3keto-disac_hyd	C	cl22861
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473984	712	832	2.70648e-12	66.6287	cl22861	LamG superfamily	C	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	396179	214	258	1.67877e-07	48.5463	pfam01476	LysM	 - 	cl21525
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	214	258	1.67877e-07	48.5463	cl21525	LysM superfamily	 - 	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	344	383	3.80397e-07	47.4801	cd00118	LysM	 - 	cl46249
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	344	383	3.80397e-07	47.4801	cl46249	LysM superfamily	 - 	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197609	214	257	5.76497e-07	47.0552	smart00257	LysM	 - 	cl21525
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	214	257	1.36642e-05	43.2429	cd00118	LysM	 - 	cl46249
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	214	257	1.36642e-05	43.2429	cl46249	LysM superfamily	 - 	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	212030	655	689	1.8346e-05	42.8577	cd00118	LysM	C	cl46249
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	480589	655	689	1.8346e-05	42.8577	cl46249	LysM superfamily	C	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	440998	214	260	2.81851e-05	45.8551	COG1388	LysM	N	cl43409
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	440998	214	260	2.81851e-05	45.8551	cl43409	LysM superfamily	N	 - 
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	197609	654	700	0.000835505	38.1956	smart00257	LysM	 - 	cl21525
+Q#149 - >XP_008602577.1 LysM domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	473897	654	700	0.000835505	38.1956	cl21525	LysM superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	214753	181	507	7.53121e-81	268.392	smart00636	Glyco_18	 - 	cl33392
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	214753	181	507	7.53121e-81	268.392	cl33392	Glyco_18 superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	non-specific	119351	192	510	2.92044e-79	264.806	cd02872	GH18_chitolectin_chitotriosidase	 - 	cl10447
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	471972	192	510	2.92044e-79	264.806	cl10447	GH18_chitinase-like superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	425828	186	507	3.45857e-72	243.131	pfam00704	Glyco_hydro_18	 - 	cl38006
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	425828	186	507	3.45857e-72	243.131	cl38006	Glyco_hydro_18 superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	442554	182	508	6.7931e-67	230.953	COG3325	ChiA	 - 	cl34587
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	442554	182	508	6.7931e-67	230.953	cl34587	ChiA superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	459705	105	144	1.66689e-15	71.0391	pfam00187	Chitin_bind_1	 - 	cl45987
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	459705	105	144	1.66689e-15	71.0391	cl45987	Chitin_bind_1 superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	non-specific	211313	64	101	8.81496e-10	55.1212	cd06922	ChtBD1_GH18_1	 - 	cl16916
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	473047	64	101	8.81496e-10	55.1212	cl16916	ChtBD1 superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	211311	105	144	1.7104e-09	54.3138	cd00035	ChtBD1	 - 	cl16916
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	473047	105	144	1.7104e-09	54.3138	cl16916	ChtBD1 superfamily	 - 	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	214593	105	144	5.82221e-09	52.7541	smart00270	ChtBD1	 - 	cl16916
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	459705	73	100	3.72472e-06	44.8455	pfam00187	Chitin_bind_1	N	cl45987
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	459705	73	100	3.72472e-06	44.8455	cl45987	Chitin_bind_1 superfamily	N	 - 
+Q#150 - >XP_008602578.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	214593	72	100	7.47903e-05	41.1981	smart00270	ChtBD1	N	cl16916
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	specific	173814	134	439	9.6684e-110	338.424	cd07489	Peptidases_S8_5	 - 	cl10459
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	415849	134	439	9.6684e-110	338.424	cl10459	Peptidases_S8_S53 superfamily	 - 	 - 
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	specific	441014	101	441	4.04058e-57	203.021	COG1404	AprE	 - 	cl34254
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	441014	101	441	4.04058e-57	203.021	cl34254	AprE superfamily	 - 	 - 
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	specific	395035	145	416	4.65048e-38	143.754	pfam00082	Peptidase_S8	 - 	cl10459
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	274856	144	381	3.60386e-22	98.9357	TIGR03921	T7SS_mycosin	C	cl37346
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	274856	144	381	3.60386e-22	98.9357	cl37346	T7SS_mycosin superfamily	C	 - 
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	240338	148	387	2.26602e-06	51.121	PTZ00262	PTZ00262	N	cl36536
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	240338	148	387	2.26602e-06	51.121	cl36536	PTZ00262 superfamily	N	 - 
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	468750	144	288	0.000420635	43.9994	NF040809	germ_prot_CspBA	NC	cl49011
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	superfamily	468750	144	288	0.000420635	43.9994	cl49011	germ_prot_CspBA superfamily	NC	 - 
+Q#152 - >XP_008602612.1 subtilase-like protein [Beauveria bassiana ARSEF 2860]	non-specific	468750	270	395	0.00653496	40.1474	NF040809	germ_prot_CspBA	NC	cl49011
+Q#154 - >XP_008602645.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	specific	441286	37	387	1.60214e-58	198.37	COG1680	AmpC	 - 	cl43486
+Q#154 - >XP_008602645.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	superfamily	441286	37	387	1.60214e-58	198.37	cl43486	AmpC superfamily	 - 	 - 
+Q#154 - >XP_008602645.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	specific	395092	44	386	5.38617e-38	142.257	pfam00144	Beta-lactamase	 - 	cl21491
+Q#154 - >XP_008602645.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	superfamily	473882	44	386	5.38617e-38	142.257	cl21491	Transpeptidase superfamily	 - 	 - 
+Q#154 - >XP_008602645.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	non-specific	171868	40	396	7.2942e-14	74.1223	PRK13128	PRK13128	C	cl31632
+Q#154 - >XP_008602645.1 penicillin-binding protein [Beauveria bassiana ARSEF 2860]	superfamily	171868	40	396	7.2942e-14	74.1223	cl31632	PRK13128 superfamily	C	 - 
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	238113	27	253	6.52027e-62	196.728	cd00190	Tryp_SPc	 - 	cl21584
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	superfamily	473915	27	253	6.52027e-62	196.728	cl21584	Tryp_SPc superfamily	 - 	 - 
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	214473	26	250	1.88861e-61	195.204	smart00020	Tryp_SPc	 - 	cl21584
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	444365	26	256	2.41836e-51	170.215	COG5640	COG5640	 - 	cl44276
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	superfamily	444365	26	256	2.41836e-51	170.215	cl44276	COG5640 superfamily	 - 	 - 
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	specific	459667	27	250	4.50076e-50	165.693	pfam00089	Trypsin	 - 	cl47494
+Q#155 - >XP_008602653.1 trypsin-like protease [Beauveria bassiana ARSEF 2860]	superfamily	459667	27	250	4.50076e-50	165.693	cl47494	Trypsin superfamily	 - 	 - 
+Q#156 - >XP_008602683.1 metalloprotease-like protein [Beauveria bassiana ARSEF 2860]	non-specific	239802	54	239	1.81413e-48	166.361	cd04275	ZnMc_pappalysin_like	 - 	cl00064
+Q#156 - >XP_008602683.1 metalloprotease-like protein [Beauveria bassiana ARSEF 2860]	superfamily	469599	54	239	1.81413e-48	166.361	cl00064	ZnMc superfamily	 - 	 - 
+Q#156 - >XP_008602683.1 metalloprotease-like protein [Beauveria bassiana ARSEF 2860]	non-specific	368506	156	237	5.01009e-14	69.565	pfam05572	Peptidase_M43	N	cl00064
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	non-specific	178309	30	256	4.25609e-47	159.535	PLN02707	PLN02707	 - 	cl00217
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	superfamily	469666	30	256	4.25609e-47	159.535	cl00217	pyrophosphatase superfamily	 - 	 - 
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	non-specific	238239	72	241	4.70866e-39	134.911	cd00412	pyrophosphatase	 - 	cl00217
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	specific	459915	76	243	2.83295e-33	119.802	pfam00719	Pyrophosphatase	 - 	cl46655
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	superfamily	459915	76	243	2.83295e-33	119.802	cl46655	Pyrophosphatase superfamily	 - 	 - 
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	non-specific	439991	60	179	2.75991e-11	61.2587	COG0221	Ppa	C	cl43068
+Q#157 - >XP_008602692.1 inorganic pyrophosphatase [Beauveria bassiana ARSEF 2860]	superfamily	439991	60	179	2.75991e-11	61.2587	cl43068	Ppa superfamily	C	 - 
+Q#159 - >XP_008602726.1 type 1 ribosome-inactivating protein musarmin 1 [Beauveria bassiana ARSEF 2860]	specific	459695	47	240	2.72704e-60	197.947	pfam00161	RIP	 - 	cl08249
+Q#159 - >XP_008602726.1 type 1 ribosome-inactivating protein musarmin 1 [Beauveria bassiana ARSEF 2860]	superfamily	459695	47	240	2.72704e-60	197.947	cl08249	RIP superfamily	 - 	 - 
+Q#159 - >XP_008602726.1 type 1 ribosome-inactivating protein musarmin 1 [Beauveria bassiana ARSEF 2860]	specific	466392	306	544	6.64293e-40	145.188	pfam20241	DUF6598	 - 	cl48408
+Q#159 - >XP_008602726.1 type 1 ribosome-inactivating protein musarmin 1 [Beauveria bassiana ARSEF 2860]	superfamily	466392	306	544	6.64293e-40	145.188	cl48408	DUF6598 superfamily	 - 	 - 
+Q#160 - >XP_008602746.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	non-specific	459815	76	502	1.16222e-77	249.846	pfam00450	Peptidase_S10	 - 	cl47550
+Q#160 - >XP_008602746.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	superfamily	459815	76	502	1.16222e-77	249.846	cl47550	Peptidase_S10 superfamily	 - 	 - 
+Q#160 - >XP_008602746.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	non-specific	240429	85	500	1.468e-30	124.162	PTZ00472	PTZ00472	 - 	cl08270
+Q#160 - >XP_008602746.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	superfamily	471799	85	500	1.468e-30	124.162	cl08270	PLN02209 superfamily	 - 	 - 
+Q#160 - >XP_008602746.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	non-specific	442182	7	246	9.12427e-09	57.9328	COG2939	Kex1	C	cl46807
+Q#160 - >XP_008602746.1 serine carboxypeptidase [Beauveria bassiana ARSEF 2860]	superfamily	442182	7	246	9.12427e-09	57.9328	cl46807	Kex1 superfamily	C	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	460348	1041	1119	3.92021e-24	97.5297	pfam01822	WSC	 - 	cl47698
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	460348	1041	1119	3.92021e-24	97.5297	cl47698	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	460348	1213	1290	3.17391e-23	94.8333	pfam01822	WSC	 - 	cl47698
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	460348	1213	1290	3.17391e-23	94.8333	cl47698	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	460348	1460	1551	2.12361e-21	89.8257	pfam01822	WSC	 - 	cl47698
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	460348	1460	1551	2.12361e-21	89.8257	cl47698	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	460348	925	1003	1.34898e-18	81.7365	pfam01822	WSC	 - 	cl47698
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	460348	925	1003	1.34898e-18	81.7365	cl47698	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214616	1037	1129	4.8392e-17	77.8957	smart00321	WSC	 - 	cl47036
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	214616	1037	1129	4.8392e-17	77.8957	cl47036	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214616	1458	1560	8.85185e-13	65.5693	smart00321	WSC	 - 	cl47036
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	214616	1458	1560	8.85185e-13	65.5693	cl47036	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214616	1209	1297	2.07905e-11	61.7173	smart00321	WSC	 - 	cl47036
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	214616	1209	1297	2.07905e-11	61.7173	cl47036	WSC superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	specific	467954	647	761	5.70009e-08	52.2406	NF012200	choice_anch_D	 - 	cl44405
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	467954	647	761	5.70009e-08	52.2406	cl44405	choice_anch_D superfamily	 - 	 - 
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	non-specific	214616	922	1003	8.08592e-08	51.7021	smart00321	WSC	 - 	cl47036
+Q#161 - >XP_008602787.1 WSC domain-containing protein [Beauveria bassiana ARSEF 2860]	superfamily	214616	922	1003	8.08592e-08	51.7021	cl47036	WSC superfamily	 - 	 - 
+Q#162 - >XP_008602798.1 exo-rhamnogalacturonase B [Beauveria bassiana ARSEF 2860]	non-specific	444185	57	344	1.26767e-29	118.385	COG5434	Pgu1	 - 	cl35001
+Q#162 - >XP_008602798.1 exo-rhamnogalacturonase B [Beauveria bassiana ARSEF 2860]	superfamily	444185	57	344	1.26767e-29	118.385	cl35001	Pgu1 superfamily	 - 	 - 
+Q#162 - >XP_008602798.1 exo-rhamnogalacturonase B [Beauveria bassiana ARSEF 2860]	non-specific	425588	132	425	1.29834e-28	114.402	pfam00295	Glyco_hydro_28	 - 	cl37622
+Q#162 - >XP_008602798.1 exo-rhamnogalacturonase B [Beauveria bassiana ARSEF 2860]	superfamily	425588	132	425	1.29834e-28	114.402	cl37622	Glyco_hydro_28 superfamily	 - 	 - 
+Q#162 - >XP_008602798.1 exo-rhamnogalacturonase B [Beauveria bassiana ARSEF 2860]	non-specific	215426	122	393	2.70342e-16	80.6933	PLN02793	PLN02793	N	cl19188
+Q#162 - >XP_008602798.1 exo-rhamnogalacturonase B [Beauveria bassiana ARSEF 2860]	superfamily	450265	122	393	2.70342e-16	80.6933	cl19188	PL-6 superfamily	N	 - 
+Q#164 - >XP_008602832.1 uncharacterized protein BBA_09513 [Beauveria bassiana ARSEF 2860]	non-specific	183558	59	235	0.000757219	40.6224	PRK12495	PRK12495	N	cl32772
+Q#164 - >XP_008602832.1 uncharacterized protein BBA_09513 [Beauveria bassiana ARSEF 2860]	superfamily	183558	59	235	0.000757219	40.6224	cl32772	PRK12495 superfamily	N	 - 
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	non-specific	468560	160	459	3.87339e-15	78.0366	NF040586	FxSxx_TPR	N	cl48889
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	superfamily	468560	160	459	3.87339e-15	78.0366	cl48889	FxSxx_TPR superfamily	N	 - 
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	non-specific	468560	161	467	4.20608e-11	65.325	NF040586	FxSxx_TPR	N	cl48889
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	non-specific	468560	179	471	2.40296e-10	63.0138	NF040586	FxSxx_TPR	N	cl48889
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	specific	440225	176	364	8.35663e-08	53.087	COG0457	TPR	C	cl33886
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	superfamily	440225	176	364	8.35663e-08	53.087	cl33886	TPR superfamily	C	 - 
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	non-specific	460097	62	104	6.67286e-07	47.0308	pfam01172	SBDS	N	cl09526
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	superfamily	460097	62	104	6.67286e-07	47.0308	cl09526	SBDS superfamily	N	 - 
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	specific	315987	210	280	0.000792291	38.1372	pfam13424	TPR_12	 - 	cl26181
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	superfamily	315987	210	280	0.000792291	38.1372	cl26181	TPR_12 superfamily	 - 	 - 
+Q#165 - >XP_008602849.1 TPR repeat protein [Beauveria bassiana ARSEF 2860]	non-specific	468560	152	300	0.000878108	41.8279	NF040586	FxSxx_TPR	N	cl48889
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	214753	137	452	2.16534e-78	260.688	smart00636	Glyco_18	 - 	cl33392
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	214753	137	452	2.16534e-78	260.688	cl33392	Glyco_18 superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	non-specific	119357	137	452	3.66579e-77	257.623	cd02878	GH18_zymocin_alpha	 - 	cl10447
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	471972	137	452	3.66579e-77	257.623	cl10447	GH18_chitinase-like superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	442554	137	455	1.42955e-67	232.494	COG3325	ChiA	 - 	cl34587
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	442554	137	455	1.42955e-67	232.494	cl34587	ChiA superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	425828	137	452	4.82799e-66	225.412	pfam00704	Glyco_hydro_18	 - 	cl38006
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	425828	137	452	4.82799e-66	225.412	cl38006	Glyco_hydro_18 superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	459705	82	121	2.01297e-13	65.2611	pfam00187	Chitin_bind_1	 - 	cl45987
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	459705	82	121	2.01297e-13	65.2611	cl45987	Chitin_bind_1 superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	214593	82	121	3.00298e-09	53.5245	smart00270	ChtBD1	 - 	cl16916
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	473047	82	121	3.00298e-09	53.5245	cl16916	ChtBD1 superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	211311	82	121	6.68682e-09	52.3878	cd00035	ChtBD1	 - 	cl16916
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	non-specific	211313	51	78	0.00173066	37.0168	cd06922	ChtBD1_GH18_1	 - 	cl16916
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	473047	51	78	0.00173066	37.0168	cl16916	ChtBD1 superfamily	 - 	 - 
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	specific	459705	58	77	0.00182414	37.1415	pfam00187	Chitin_bind_1	N	cl45987
+Q#167 - >XP_008602904.1 symbiotic chitinase [Beauveria bassiana ARSEF 2860]	superfamily	459705	58	77	0.00182414	37.1415	cl45987	Chitin_bind_1 superfamily	N	 - 
+Q#168 - >XP_008602913.1 putative peptidylarginine deiminase [Beauveria bassiana ARSEF 2860]	specific	460794	209	619	5.28196e-163	471.708	pfam03068	PAD	 - 	cl09549
+Q#168 - >XP_008602913.1 putative peptidylarginine deiminase [Beauveria bassiana ARSEF 2860]	superfamily	460794	209	619	5.28196e-163	471.708	cl09549	PAD superfamily	 - 	 - 
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	specific	441081	63	430	8.46773e-81	266.182	COG1472	BglX	 - 	cl34276
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	superfamily	441081	63	430	8.46773e-81	266.182	cl34276	BglX superfamily	 - 	 - 
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	non-specific	185053	34	764	1.97811e-65	232.266	PRK15098	PRK15098	 - 	cl33080
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	superfamily	185053	34	764	1.97811e-65	232.266	cl33080	PRK15098 superfamily	 - 	 - 
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	specific	396478	384	616	4.9479e-43	155.166	pfam01915	Glyco_hydro_3_C	 - 	cl38063
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	superfamily	396478	384	616	4.9479e-43	155.166	cl38063	Glyco_hydro_3_C superfamily	 - 	 - 
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	non-specific	395747	90	336	7.87035e-41	152.178	pfam00933	Glyco_hydro_3	 - 	cl29895
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	superfamily	421946	90	336	7.87035e-41	152.178	cl29895	Glyco_hydro_3 superfamily	 - 	 - 
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	specific	433860	697	762	1.2494e-28	109.095	pfam14310	Fn3-like	 - 	cl17048
+Q#171 - >XP_008602940.1 glycosyl hydrolase, putative [Beauveria bassiana ARSEF 2860]	superfamily	433860	697	762	1.2494e-28	109.095	cl17048	Fn3-like superfamily	 - 	 - 
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	specific	440145	55	789	0	1313.57	COG0376	KatG	 - 	cl43124
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	superfamily	440145	55	789	0	1313.57	cl43124	KatG superfamily	 - 	 - 
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	specific	237891	64	789	0	1285.09	PRK15061	PRK15061	 - 	cl00196
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	superfamily	444739	64	789	0	1285.09	cl00196	plant_peroxidase_like superfamily	 - 	 - 
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	non-specific	272957	64	788	0	990.199	TIGR00198	cat_per_HPI	 - 	cl00196
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	non-specific	173824	65	480	0	702.141	cd00649	catalase_peroxidase_1	 - 	cl00196
+Q#174 - >XP_008603079.1 Catalase-peroxidase [Beauveria bassiana ARSEF 2860]	specific	425483	126	324	6.81232e-36	133.844	pfam00141	peroxidase	 - 	cl00196
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	non-specific	397351	14	335	2.17792e-149	436.422	pfam03198	Glyco_hydro_72	 - 	cl23725
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	superfamily	474034	14	335	2.17792e-149	436.422	cl23725	Glyco_hydro superfamily	 - 	 - 
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	specific	400371	379	456	5.50324e-24	95.7429	pfam07983	X8	 - 	cl06842
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	superfamily	414922	379	456	5.50324e-24	95.7429	cl06842	X8 superfamily	 - 	 - 
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	specific	197867	379	461	4.4831e-12	62.2724	smart00768	X8	 - 	cl06842
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	non-specific	442481	23	178	1.69658e-06	51.2994	COG3250	LacZ	NC	cl43822
+Q#176 - >XP_008603118.1 beta-1,3-glucanosyltransferase [Beauveria bassiana ARSEF 2860]	superfamily	442481	23	178	1.69658e-06	51.2994	cl43822	LacZ superfamily	NC	 - 
+Q#177 - >XP_008603132.1 cholera enterotoxin subunit A2 [Beauveria bassiana ARSEF 2860]	non-specific	366600	70	243	9.865e-21	90.3118	pfam01375	Enterotoxin_a	C	cl03779
+Q#177 - >XP_008603132.1 cholera enterotoxin subunit A2 [Beauveria bassiana ARSEF 2860]	superfamily	413808	70	243	9.865e-21	90.3118	cl03779	Enterotoxin_a superfamily	C	 - 
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	non-specific	119332	214	612	2.2888e-143	420.465	cd06562	GH20_HexA_HexB-like	 - 	cl02948
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	superfamily	445966	214	612	2.2888e-143	420.465	cl02948	GH20_hexosaminidase superfamily	 - 	 - 
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	non-specific	425840	214	583	4.05371e-120	360.847	pfam00728	Glyco_hydro_20	 - 	cl02948
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	non-specific	442747	139	613	1.43893e-79	262.874	COG3525	Chb	 - 	cl34630
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	superfamily	442747	139	613	1.43893e-79	262.874	cl34630	Chb superfamily	 - 	 - 
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	specific	434261	29	191	3.6752e-39	140.544	pfam14845	Glycohydro_20b2	 - 	cl03741
+Q#185 - >XP_008603374.1 putative hexosaminidase [Beauveria bassiana ARSEF 2860]	superfamily	446174	29	191	3.6752e-39	140.544	cl03741	Glyco_hydro_20b superfamily	 - 	 - 
+Q#186 - >XP_008603412.1 endo-N-acetyl-beta-D-glucosaminidase precursor [Beauveria bassiana ARSEF 2860]	non-specific	119363	42	298	6.99402e-136	387.458	cd06546	GH18_CTS3_chitinase	 - 	cl10447
+Q#186 - >XP_008603412.1 endo-N-acetyl-beta-D-glucosaminidase precursor [Beauveria bassiana ARSEF 2860]	superfamily	471972	42	298	6.99402e-136	387.458	cl10447	GH18_chitinase-like superfamily	 - 	 - 
+Q#187 - >XP_008603432.1 surface antigen [Beauveria bassiana ARSEF 2860]	specific	443142	148	276	2.3121e-24	95.0585	COG3942	COG3942	 - 	cl34697
+Q#187 - >XP_008603432.1 surface antigen [Beauveria bassiana ARSEF 2860]	superfamily	443142	148	276	2.3121e-24	95.0585	cl34697	COG3942 superfamily	 - 	 - 
+Q#187 - >XP_008603432.1 surface antigen [Beauveria bassiana ARSEF 2860]	specific	461605	160	252	2.61984e-12	61.2837	pfam05257	CHAP	 - 	cl47923
+Q#187 - >XP_008603432.1 surface antigen [Beauveria bassiana ARSEF 2860]	superfamily	461605	160	252	2.61984e-12	61.2837	cl47923	CHAP superfamily	 - 	 - 
