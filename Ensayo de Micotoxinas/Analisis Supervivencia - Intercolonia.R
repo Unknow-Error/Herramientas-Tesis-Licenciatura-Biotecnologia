@@ -1,11 +1,21 @@
-#Análisis de Efectos de supervivencia Mixtos
+#Librerias 
 
-#Efecto mixto - Cox
-library(coxme)
+#install.packages("dplyr")  
+#install.packages("tidyr")
+#install.packages("survival")
+#install.packages("bdsmatrix")
+#install.packages("FSA")
+
 library(dplyr)  # Para combinar los data frames de forma eficiente
 library(tidyr)
 library(survival)
 library(bdsmatrix)
+library(FSA)  # Para pruebas post hoc
+
+#Análisis de Efectos de supervivencia Mixtos
+
+#Efecto mixto - Cox
+
 
 ensayo_10 <- read.csv(file = "Ensayos de Micotoxinas de B. bassiana en L. humile - Ensayo #10 - Para analisis R.csv", header = T, sep=",", skip=1)
 
@@ -99,7 +109,7 @@ df_largo <- df_largo %>%
 library(dplyr)
 
 #Prueba Kruskal-Wallis
-library(FSA)  # Para pruebas post hoc
+
 df_largo_evento_1 <- df_largo %>%
   filter(status == 1)
 
