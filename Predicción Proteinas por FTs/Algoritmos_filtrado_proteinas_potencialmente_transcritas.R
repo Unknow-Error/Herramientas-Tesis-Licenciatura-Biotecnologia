@@ -5,13 +5,14 @@
 #install.packages("stringr")
 #install.packages("dplyr")
 #install.packages("ggplot2")
+#BiocManager::install("Biostrings")
 
 library(purrr)
 library(readr)
 library(dplyr)
 library(stringr)
 library(ggplot2)
-
+library(Biostrings)
 
 #Filtrar y obtener las proteínas que transcriben los Factores de Transcrición en Beauveria bassiana
 
